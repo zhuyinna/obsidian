@@ -1,0 +1,25 @@
+{
+  "snippets_file": "snippets : It is an obsidian plugin, that replaces your selected text.\ntpr : <% tp.file. %>\nat : annotation-target: \narxiv : [arXiv Fulltext PDF](zotero://open-pdf/library/items/\ntyx : 童逸轩\nyxw : 于晓伟\nyhq : 应涵倩\nwyt : 王依婷\ndqy : 董琦芸\nzzy : 张子怡\nzrt : 张若彤\ntd : - [ ] ",
+  "snippets": [
+    "snippets : It is an obsidian plugin, that replaces your selected text.",
+    "tpr : <% tp.file. %>",
+    "at : annotation-target: ",
+    "arxiv : [arXiv Fulltext PDF](zotero://open-pdf/library/items/",
+    "tyx : 童逸轩",
+    "yxw : 于晓伟",
+    "yhq : 应涵倩",
+    "wyt : 王依婷",
+    "dqy : 董琦芸",
+    "zzy : 张子怡",
+    "zrt : 张若彤",
+    "td : - [ ] "
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": false,
+  "useSpace": true,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": true
+}

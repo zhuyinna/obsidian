@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "3e1277792e076cc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "56d701ed00fb822c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c62e88aeead5e250",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Home/Home.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a7640ca433fc8f77",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40-Research/实验/实验进展.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "99eb60196435946e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40-Research/实验/实验进展.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08a14b0e7c826d5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6364e83f8381b51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d203f02488823f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d5ed404a72212bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ssh",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01d3b5b5b9e85093",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "9b4c48b08ab34a10",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318.5
+  },
+  "right": {
+    "id": "02dbfd97c2edcf7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2afbe8651befcc96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9848a09a5e94427",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "40-Research/实验/实验进展.md"
+              }
+            }
+          },
+          {
+            "id": "fd7b880207440c17",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f6595942860c1207",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "f71a65c6e27ab75b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "templates:插入模板": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "99eb60196435946e",
+  "lastOpenFiles": [
+    "40-Research/实验/实验/000-进度.md",
+    "40-Research/实验/实验进展.md",
+    "40-Research/实验/实验/experiment_log.md",
+    "30-Lookup/linux statement.md",
+    "00-Home/Home.md",
+    "60-Attachment/Pasted image 20240304005218.png",
+    "60-Attachment/Pasted image 20240304005202.png",
+    "60-Attachment/Pasted image 20240304005154.png",
+    "60-Attachment/Pasted image 20240304004637.png",
+    "60-Attachment/Pasted image 20240304004609.png",
+    "60-Attachment/Pasted image 20240304004334.png",
+    "40-Research/论文笔记/PoseTransfer/@bhunia2023CVPR-PIDM.md",
+    "60-Attachment/Pasted image 20240221225627.png",
+    "60-Attachment/Pasted image 20240218215906.png",
+    "60-Attachment/Pasted image 20240218180014.png",
+    "60-Attachment/Pasted image 20240217150800.png",
+    "10-Mynote/提醒.md",
+    "30-Lookup/inspur cluster.md",
+    "40-Research/论文笔记/PoseTransfer/@cheong2023-UPGPT.md",
+    "40-Research/论文笔记/PoseTransfer/@shen2023-PCDMs.md",
+    "40-Research/论文笔记/PoseTransfer/@ren2022CVPR-NTED.md",
+    "40-Research/论文笔记/PoseTransfer/@neverova2018-densepose_transfer.md",
+    "40-Research/论文笔记/PoseTransfer/@men2020CVPR-ADGAN.md",
+    "40-Research/论文笔记/PoseTransfer/@ma2018TPAMI-PG2.md",
+    "40-Research/论文笔记/PoseTransfer/@ma2018CVPR-disentangled.md",
+    "40-Research/论文笔记/PoseTransfer/@liu2022ECCV-DynaST.md",
+    "40-Research/论文笔记/PoseTransfer/@huang2017ICCV-AdaIN.md",
+    "40-Research/论文笔记/PoseTransfer/@hu2023-AnimateAnyone.md",
+    "40-Research/论文笔记/PoseTransfer/@guler2018-densepose.md",
+    "40-Research/论文笔记/PoseTransfer/@han2023ICCV-PocoLD.md",
+    "40-Research/论文笔记/PoseTransfer/@feng2023-Dreamoving.md",
+    "40-Research/论文笔记/PoseTransfer/@chan2019-everybody.md",
+    "40-Research/论文笔记/PoseTransfer/SAG.md",
+    "40-Research/生成模型/生成模型.md",
+    "40-Research/生成模型",
+    "40-Research/webserver调研/框架调研.md",
+    "40-Research/webserver调研",
+    "40-Research/生成模型/扩散模型",
+    "10-Mynote/事项/党支部/科普活动/20230311/面包板电子制作130例.pdf",
+    "40-Research/论文笔记/PoseTransfer",
+    "40-Research/实验/毕业设计",
+    "40-Research/论文笔记/PoseTransfer",
+    "10-Mynote/日记/2023-12",
+    "10-Mynote/日记/2023-11",
+    "10-Mynote/日记/2023-10",
+    "未命名.canvas",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "模板/React调用/未命名.canvas",
+    "科研/LearningNote/HPE/出链/未命名.canvas"
+  ]
+}

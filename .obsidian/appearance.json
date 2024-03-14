@@ -1,0 +1,21 @@
+{
+  "accentColor": "#89916b",
+  "theme": "moonstone",
+  "cssTheme": "Blue Topaz",
+  "translucency": false,
+  "baseFontSize": 14,
+  "enabledCssSnippets": [
+    "tableStyles",
+    "progresscolor",
+    "styles",
+    "MCL Multi Column",
+    "MCL Wide Views",
+    "MCL Gallery Cards",
+    "【自定义】彩色时钟样式",
+    "【图标】iconfont",
+    "snappets",
+    "mermaid-gantt-example"
+  ],
+  "showViewHeader": true,
+  "nativeMenus": false
+}

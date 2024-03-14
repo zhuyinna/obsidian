@@ -1,0 +1,15 @@
+{
+  "showInlineTitle": false,
+  "attachmentFolderPath": "60-Attachment",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "80-NewFileFoler",
+  "trashOption": "local",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "promptDelete": false
+}

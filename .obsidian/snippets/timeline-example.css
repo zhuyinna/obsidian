@@ -1,0 +1,43 @@
+.event_item:hover{
+    background-color: var(--interactive-accent-hover) !important;
+}
+
+.event_item_color1 {
+  background-color: #8A2BE2 !important;
+}
+
+.event_item_color2 {
+  background-color: #9932CC !important;
+}
+
+.event_item_color3 {
+  background-color: #DDA0DD !important;
+}
+
+.event_item_color4 {
+  background-color: #9370DB !important;
+}
+
+.event_item_color5 {
+  background-color: #7B68EE !important;
+}
+
+.event_item_color6 {
+  background-color: #778899 !important;
+}
+
+.event_item_color7 {
+  background-color: #4682B4 !important;
+}
+
+.event_item_color8 {
+  background-color: #6495ED !important;
+}
+
+.event_item_color9 {
+  background-color: #ADD8E6 !important;
+}
+
+.event_item_color10 {
+  background-color: #8FBC8F !important;
+}
