@@ -176,7 +176,7 @@ git commit -m "注释"
 git push -u origin master
 ```
 
-
+2. 原分支更新，
 
 
 ## 四、错误汇总
