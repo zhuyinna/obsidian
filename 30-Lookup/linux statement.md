@@ -176,7 +176,12 @@ git commit -m "注释"
 git push -u origin master
 ```
 
-2. 原分支更新，
+2. 原fork分支更新，同步到本地
+```
+git remote add upstream "git URL"
+git fetch upstream
+git merge upstream/main
+```
 
 
 ## 四、错误汇总
