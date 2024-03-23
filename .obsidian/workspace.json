@@ -49,9 +49,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "86bab2a04296ea86",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -180,7 +190,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2d2fafa38ad0efb2",
+  "active": "86bab2a04296ea86",
   "lastOpenFiles": [
     "40-Research/实验/实验进展.md",
     "conflict-files-obsidian-git.md",
