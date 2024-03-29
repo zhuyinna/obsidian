@@ -49,19 +49,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "86bab2a04296ea86",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,11 +180,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "86bab2a04296ea86",
+  "active": "2d2fafa38ad0efb2",
   "lastOpenFiles": [
+    "30-Lookup/inspur cluster.md",
+    "30-Lookup/linux statement.md",
     "40-Research/实验/实验进展.md",
     "conflict-files-obsidian-git.md",
-    "30-Lookup/linux statement.md",
     "00-Home/Home.md",
     "未命名.canvas",
     "40-Research/实验/实验/000-进度.md",
@@ -211,7 +202,6 @@
     "60-Attachment/Pasted image 20240218180014.png",
     "60-Attachment/Pasted image 20240217150800.png",
     "10-Mynote/提醒.md",
-    "30-Lookup/inspur cluster.md",
     "40-Research/论文笔记/PoseTransfer/@cheong2023-UPGPT.md",
     "40-Research/论文笔记/PoseTransfer/@shen2023-PCDMs.md",
     "40-Research/论文笔记/PoseTransfer/@ren2022CVPR-NTED.md",

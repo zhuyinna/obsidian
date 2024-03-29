@@ -5,6 +5,10 @@
       "path": "30-Lookup/linux statement.md"
     },
     {
+      "basename": "inspur cluster",
+      "path": "30-Lookup/inspur cluster.md"
+    },
+    {
       "basename": "实验进展",
       "path": "40-Research/实验/实验进展.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "image",
       "path": "40-Research/实验/实验/image.png"
-    },
-    {
-      "basename": "inspur cluster",
-      "path": "30-Lookup/inspur cluster.md"
     },
     {
       "basename": "@cheong2023-UPGPT",
