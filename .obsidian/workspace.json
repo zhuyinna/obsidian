@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-Chunzhao/02-面经题目整理.md",
+                "file": "20-Chunzhao/A-基础知识/A-01-计算机网络整理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-Chunzhao/02-面经题目整理.md"
+                "file": "20-Chunzhao/A-基础知识/A-01-计算机网络整理.md"
               }
             }
           },
@@ -167,10 +167,10 @@
   },
   "active": "2d2fafa38ad0efb2",
   "lastOpenFiles": [
+    "20-Chunzhao/02-面经题目整理.md",
     "60-Attachment/b0553a1ffcb7de7f4c1e9ad2ba6b5f3.jpg",
     "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md",
     "20-Chunzhao/A-基础知识/A-01-计算机网络整理.md",
-    "20-Chunzhao/02-面经题目整理.md",
     "20-Chunzhao/A-基础知识/A-02-redis数据库.md",
     "60-Attachment/Pasted image 20240330145852.png",
     "20-Chunzhao/00-准备@chatgpt.md",
@@ -202,7 +202,6 @@
     "60-Attachment/Pasted image 20240304004334.png",
     "40-Research/论文笔记/PoseTransfer/@bhunia2023CVPR-PIDM.md",
     "60-Attachment/Pasted image 20240221225627.png",
-    "60-Attachment/Pasted image 20240218215906.png",
     "10-Mynote/提醒.md",
     "40-Research/论文笔记/PoseTransfer/@cheong2023-UPGPT.md",
     "40-Research/论文笔记/PoseTransfer/@shen2023-PCDMs.md",
