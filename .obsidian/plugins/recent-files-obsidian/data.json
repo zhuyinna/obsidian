@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "A-03-MySQL数据库",
+      "path": "20-Chunzhao/A-基础知识/A-03-MySQL数据库.md"
+    },
+    {
+      "basename": "A-04-数据结构",
+      "path": "20-Chunzhao/A-基础知识/A-04-数据结构.md"
+    },
+    {
+      "basename": "00-准备@chatgpt",
+      "path": "20-Chunzhao/00-准备@chatgpt.md"
+    },
+    {
       "basename": "A-01-计算机网络整理",
       "path": "20-Chunzhao/A-基础知识/A-01-计算机网络整理.md"
     },
@@ -17,10 +29,6 @@
       "path": "20-Chunzhao/A-基础知识/A-02-redis数据库.md"
     },
     {
-      "basename": "00-准备@chatgpt",
-      "path": "20-Chunzhao/00-准备@chatgpt.md"
-    },
-    {
       "basename": "01-自我介绍",
       "path": "20-Chunzhao/01-自我介绍.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Home",
       "path": "00-Home/Home.md"
-    },
-    {
-      "basename": "2023",
-      "path": "10-Mynote/年报/2023.md"
     }
   ],
   "omittedPaths": [],

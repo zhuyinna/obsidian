@@ -1,0 +1,72 @@
+
+## 基础
+
+### 基本教程
+冗余，主键，外键，复合键，**索引**
+
+### 索引
+#### 分类
+1. 普通索引
+   CREATE INDEX index_name ON TABLE (column1)；
+   ALTER TABLE ADD INDEX index_name  (column)；
+   CREATE TABLE table_name(....., INDEX idx_age (age));
+   删除 DROP INDEX index_name ON table_name; 
+   ALTER TABLE table_name DROP INDEX index_name;
+2. 唯一索引
+   索引中的值是唯一的，不允许有重复值
+   CREATE UNIQUE INDEX index_name；
+   ALTER table mytable 
+	ADD CONSTRAINT unique_constraint_name UNIQUE (column1, column2, ...);
+   用法基本和普通索引相同
+3. 聚焦索引
+   ```ad-question
+   是否就是 第一个唯一索引？
+   ```
+
+#### 其他概念
+1. **索引覆盖**
+   只需要在一颗索引树就能获取SQL所需的所有列数据，无需回表，速度更快。
+2. 怎么实现索引覆盖？
+   - 将被查询的字段，建立到联合索引里去
+     例如单列索引(name)升级为联合索引(name, sex)
+     能够命中name索引，索引叶子节点存储了主键id，通过name的索引树即可获取id和name，无需回表，符合索引覆盖，效率较高。
+     画外音，Extra：Using index。
+3. 索引下推优化
+	   简称ICP优化，取出索引的同时，判断是否可以进行where条件过滤再进行索引查询。——减少回表次数。
+### 事务
+InnoDB存储引擎才有。
+特点：原子性、一致性、隔离性、持久性。
+BEGIN或者START TRANSACTION
+ROLLBACK
+COMMIT
+
+### 回表
+
+主键索引的查询：只需要搜索id这颗B+树，就能确定记录。
+基于非主键索引的查询：例如对普通索引进行，先搜索索引树，得到主键ID的值，再去ID索引树搜索一次。
+明显，主键查询效率更高。 
+
+*结论*
+使用聚焦索引（主键或第一个唯一索引）就不会回标，普通索引就会回表
+### 执行查询语句
+
+<img src=https://s2.loli.net/2024/03/31/IxiAdk5Ys2LpQgE.png width='100%'>
+
+执行语句的流程
+- 连接器
+	- 基于TCP协议——三次握手四次挥手
+	- 长连接 || 短连接
+- 查询缓存
+	- 比较鸡肋
+- 解析SQL
+	- 词法分析：关键字，非关键字
+	- 语法分析：是否满足MySQL语法，但不会检查表/字段是否存在
+- 执行SQL
+	- prepare阶段：检查是否存在；替换\*为所有列
+	- optimize优化器 ：确定执行方案——例如表里面有多个索引，会选择代价小的索引
+	- execute执行器：
+
+
+
+## TODO：问题汇总
+1. sql，mysq区别
