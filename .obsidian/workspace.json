@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "right": {
     "id": "02dbfd97c2edcf7b",
@@ -143,13 +142,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,6 +165,10 @@
   },
   "active": "2d2fafa38ad0efb2",
   "lastOpenFiles": [
+    "60-Attachment/Pasted image 20240331213722.png",
+    "60-Attachment/Pasted image 20240331213342.png",
+    "60-Attachment/Pasted image 20240331213326.png",
+    "60-Attachment/Pasted image 20240331212739.png",
     "20-Chunzhao/A-基础知识/A-04-数据结构.md",
     "20-Chunzhao/A-基础知识/A-03-MySQL数据库.md",
     "60-Attachment/Pasted image 20240331193319.png",
@@ -201,13 +202,9 @@
     "60-Attachment/Pasted image 20240304005218.png",
     "60-Attachment/Pasted image 20240304005202.png",
     "60-Attachment/Pasted image 20240304005154.png",
-    "60-Attachment/Pasted image 20240304004637.png",
-    "60-Attachment/Pasted image 20240304004609.png",
-    "60-Attachment/Pasted image 20240304004334.png",
     "40-Research/论文笔记/PoseTransfer/@bhunia2023CVPR-PIDM.md",
     "10-Mynote/提醒.md",
     "40-Research/论文笔记/PoseTransfer/@cheong2023-UPGPT.md",
-    "40-Research/论文笔记/PoseTransfer/@shen2023-PCDMs.md",
     "40-Research/生成模型",
     "40-Research/webserver调研",
     "40-Research/生成模型/扩散模型",
