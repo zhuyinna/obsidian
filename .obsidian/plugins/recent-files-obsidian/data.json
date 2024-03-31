@@ -5,6 +5,10 @@
       "path": "20-Chunzhao/A-基础知识/A-03-MySQL数据库.md"
     },
     {
+      "basename": "Home",
+      "path": "00-Home/Home.md"
+    },
+    {
       "basename": "A-04-数据结构",
       "path": "20-Chunzhao/A-基础知识/A-04-数据结构.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "03-复盘&每日总结",
       "path": "20-Chunzhao/03-复盘&每日总结.md"
-    },
-    {
-      "basename": "Home",
-      "path": "00-Home/Home.md"
     }
   ],
   "omittedPaths": [],
