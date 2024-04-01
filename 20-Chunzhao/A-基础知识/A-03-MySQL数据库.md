@@ -136,6 +136,15 @@ COMMIT
 
 ![[Pasted image 20240331234626.png|425]]
 
+## MySQL 加锁
+
+![[Pasted image 20240401114813.png]]
+
+![[Pasted image 20240401114817.png]]
+
+## 死锁
+
+
 
 # TODO：问题汇总
 #todo
