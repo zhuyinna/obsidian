@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-Chunzhao/A-基础知识/A-03-MySQL数据库.md",
+                "file": "20-Chunzhao/00-准备@chatgpt.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-Chunzhao/A-基础知识/A-03-MySQL数据库.md"
+                "file": "20-Chunzhao/00-准备@chatgpt.md"
               }
             }
           },
@@ -165,11 +165,11 @@
   },
   "active": "db009c2313cf5a4b",
   "lastOpenFiles": [
+    "20-Chunzhao/A-基础知识/A-03-MySQL数据库.md",
     "60-Attachment/Pasted image 20240331234626.png",
     "60-Attachment/Pasted image 20240331234549.png",
     "60-Attachment/Pasted image 20240331234537.png",
     "00-Home/Home.md",
-    "20-Chunzhao/A-基础知识/A-03-MySQL数据库.md",
     "60-Attachment/Pasted image 20240331225121.png",
     "60-Attachment/Pasted image 20240331220644.png",
     "60-Attachment/Pasted image 20240331213722.png",
@@ -181,7 +181,6 @@
     "20-Chunzhao/00-准备@chatgpt.md",
     "20-Chunzhao/A-基础知识/A-01-计算机网络整理.md",
     "20-Chunzhao/02-面经题目整理.md",
-    "60-Attachment/b0553a1ffcb7de7f4c1e9ad2ba6b5f3.jpg",
     "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md",
     "20-Chunzhao/A-基础知识/A-02-redis数据库.md",
     "20-Chunzhao/01-自我介绍.md",
