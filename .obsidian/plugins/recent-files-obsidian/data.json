@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "00-准备@chatgpt",
-      "path": "20-Chunzhao/00-准备@chatgpt.md"
-    },
-    {
       "basename": "A-01-计算机网络整理",
       "path": "20-Chunzhao/A-基础知识/A-01-计算机网络整理.md"
+    },
+    {
+      "basename": "B-01-经典题目思路归纳",
+      "path": "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md"
+    },
+    {
+      "basename": "00-准备@chatgpt",
+      "path": "20-Chunzhao/00-准备@chatgpt.md"
     },
     {
       "basename": "Home",
@@ -23,10 +27,6 @@
     {
       "basename": "02-面经题目整理",
       "path": "20-Chunzhao/02-面经题目整理.md"
-    },
-    {
-      "basename": "B-01-经典题目思路归纳",
-      "path": "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md"
     },
     {
       "basename": "A-02-redis数据库",
