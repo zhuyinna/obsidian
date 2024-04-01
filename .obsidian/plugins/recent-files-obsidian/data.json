@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "B-02-C++处理输入输出",
+      "path": "20-Chunzhao/B-leetcode/B-02-C++处理输入输出.md"
+    },
+    {
       "basename": "03-复盘&每日总结",
       "path": "20-Chunzhao/03-复盘&每日总结.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "A-02-redis数据库",
       "path": "20-Chunzhao/A-基础知识/A-02-redis数据库.md"
-    },
-    {
-      "basename": "01-自我介绍",
-      "path": "20-Chunzhao/01-自我介绍.md"
     }
   ],
   "omittedPaths": [],
