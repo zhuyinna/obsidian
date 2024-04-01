@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "03-复盘&每日总结",
+      "path": "20-Chunzhao/03-复盘&每日总结.md"
+    },
+    {
+      "basename": "00-准备@chatgpt",
+      "path": "20-Chunzhao/00-准备@chatgpt.md"
+    },
+    {
       "basename": "A-01-计算机网络整理",
       "path": "20-Chunzhao/A-基础知识/A-01-计算机网络整理.md"
     },
     {
       "basename": "B-01-经典题目思路归纳",
       "path": "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md"
-    },
-    {
-      "basename": "00-准备@chatgpt",
-      "path": "20-Chunzhao/00-准备@chatgpt.md"
     },
     {
       "basename": "Home",
@@ -35,10 +39,6 @@
     {
       "basename": "01-自我介绍",
       "path": "20-Chunzhao/01-自我介绍.md"
-    },
-    {
-      "basename": "03-复盘&每日总结",
-      "path": "20-Chunzhao/03-复盘&每日总结.md"
     }
   ],
   "omittedPaths": [],
