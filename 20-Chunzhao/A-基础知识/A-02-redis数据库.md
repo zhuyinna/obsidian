@@ -115,3 +115,26 @@ HyperLogLog：提供不精确的去重基数统计，相比Hash和Map非常节�
 	百万级网页 UV 计数
 GEO：底层是sorted set，存储地理位置
 	滴滴叫车
+
+# Redis线程模型--单线程
+
+![[Pasted image 20240402154519.png|475]]
+
+1. 初始化
+    - 调用epoll_create函数创建一个epoll，调用socket创建一个服务端socket
+    - bind（）端口，调用listen监听该socket
+    - epoll_ctl()将 listen socket 加入到 epoll，同时注册「连接事件」处理函数
+2. 事件循环函数（蓝色部分）
+	- 处理发送队列函数：如果有，触发write函数将客户端发送缓存区里的数据发送出去
+	- 调用 epoll_wait 函数等待事件的到来
+		  连接事件：调用 accpet 获取已连接的 socket -> 调用 epoll_ctl 将已连接的 socket 加入到 epoll -> 注册「读事件」处理函数
+		  read事件：read，解析，执行，把客户端对象添加到发送队列，执行结果加入到缓存，write
+		  write事件：发送，如果这一轮没法送完，继续注册write，等待 epoll_wait 发现可写后再处理 。
+
+```ad-question
+单线程为什么还这么快？
+```
+- 大部分都在内存中完成，并且采用了高效的数据结构
+- 避免了多线程的竞争：例如线程切换带来的时间和性能开销，死锁等
+- I/O多路复用机制：允许内核同时存在多个监听socket和已连接socket，就实现了一个 Redis 线程处理多个 IO 流的效果。
+注意多线程I/O，不代表redis是多线程，redis仍然是单线程。
