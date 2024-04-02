@@ -1,24 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-04-02",
+      "path": "10-Mynote/日记/2024-04-02.md"
+    },
+    {
       "basename": "B-01-经典题目思路归纳",
       "path": "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md"
     },
     {
-      "basename": "B-02-C++处理输入输出",
-      "path": "20-Chunzhao/B-leetcode/B-02-C++处理输入输出.md"
-    },
-    {
-      "basename": "03-复盘&每日总结",
-      "path": "20-Chunzhao/03-复盘&每日总结.md"
-    },
-    {
       "basename": "00-准备@chatgpt",
       "path": "20-Chunzhao/00-准备@chatgpt.md"
-    },
-    {
-      "basename": "A-01-计算机网络整理",
-      "path": "20-Chunzhao/A-基础知识/A-01-计算机网络整理.md"
     },
     {
       "basename": "Home",
@@ -29,16 +21,24 @@
       "path": "20-Chunzhao/A-基础知识/A-03-MySQL数据库.md"
     },
     {
+      "basename": "B-02-C++处理输入输出",
+      "path": "20-Chunzhao/B-leetcode/B-02-C++处理输入输出.md"
+    },
+    {
+      "basename": "03-复盘&每日总结",
+      "path": "20-Chunzhao/03-复盘&每日总结.md"
+    },
+    {
+      "basename": "A-01-计算机网络整理",
+      "path": "20-Chunzhao/A-基础知识/A-01-计算机网络整理.md"
+    },
+    {
       "basename": "A-04-数据结构",
       "path": "20-Chunzhao/A-基础知识/A-04-数据结构.md"
     },
     {
       "basename": "02-面经题目整理",
       "path": "20-Chunzhao/02-面经题目整理.md"
-    },
-    {
-      "basename": "A-02-redis数据库",
-      "path": "20-Chunzhao/A-基础知识/A-02-redis数据库.md"
     }
   ],
   "omittedPaths": [],

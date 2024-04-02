@@ -41,25 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md",
+                "file": "10-Mynote/日记/2024-04-02.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "875482de4b075ced",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md"
+                "file": "10-Mynote/日记/2024-04-02.md"
               }
             }
           },
@@ -164,12 +154,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "b3c8658a3a06ab09",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 306.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,22 +182,24 @@
       "obsidian42-brat:BRAT": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "875482de4b075ced",
+  "active": "4492e59350cfb868",
   "lastOpenFiles": [
+    "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md",
+    "10-Mynote/日记/2024-04-02.md",
+    "20-Chunzhao/00-准备@chatgpt.md",
+    "00-Home/Home.md",
+    "20-Chunzhao/A-基础知识/A-03-MySQL数据库.md",
     "20-Chunzhao/B-leetcode/B-02-C++处理输入输出.md",
     "20-Chunzhao/03-复盘&每日总结.md",
     "20-Chunzhao/未命名.md",
-    "20-Chunzhao/00-准备@chatgpt.md",
     "20-Chunzhao/A-基础知识/A-01-计算机网络整理.md",
     "60-Attachment/Pasted image 20240401160506.png",
     "60-Attachment/Pasted image 20240401160237.png",
     "60-Attachment/Pasted image 20240401160226.png",
-    "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md",
-    "00-Home/Home.md",
-    "20-Chunzhao/A-基础知识/A-03-MySQL数据库.md",
     "60-Attachment/Pasted image 20240401114817.png",
     "60-Attachment/Pasted image 20240401114813.png",
     "60-Attachment/Pasted image 20240331234626.png",
@@ -227,7 +228,6 @@
     "40-Research/实验/实验/000-进度.md",
     "40-Research/实验/实验/experiment_log.md",
     "40-Research/论文笔记/PoseTransfer/@bhunia2023CVPR-PIDM.md",
-    "10-Mynote/提醒.md",
     "40-Research/生成模型",
     "40-Research/webserver调研",
     "40-Research/生成模型/扩散模型",
