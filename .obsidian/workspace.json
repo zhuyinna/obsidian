@@ -47,9 +47,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "875482de4b075ced",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -176,7 +186,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4492e59350cfb868",
+  "active": "875482de4b075ced",
   "lastOpenFiles": [
     "20-Chunzhao/B-leetcode/B-02-C++处理输入输出.md",
     "20-Chunzhao/03-复盘&每日总结.md",
