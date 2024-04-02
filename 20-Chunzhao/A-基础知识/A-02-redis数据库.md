@@ -116,7 +116,7 @@ HyperLogLog：提供不精确的去重基数统计，相比Hash和Map非常节�
 GEO：底层是sorted set，存储地理位置
 	滴滴叫车
 
-# Redis线程模型--单线程
+## Redis线程模型--单线程
 
 ![[Pasted image 20240402154519.png|475]]
 
@@ -139,7 +139,7 @@ GEO：底层是sorted set，存储地理位置
 - I/O多路复用机制：允许内核同时存在多个监听socket和已连接socket，就实现了一个 Redis 线程处理多个 IO 流的效果。
 注意多线程I/O，不代表redis是多线程，redis仍然是单线程。
 
-# Redis持久化
+## Redis持久化
 - AOF日志
   先执行命令，再把命令记录到AOF（磁盘）
   ![[Pasted image 20240402173543.png]]
@@ -151,3 +151,6 @@ GEO：底层是sorted set，存储地理位置
 - 混合
   使用了混合持久化，AOF 文件的**前半部分是 RDB 格式的全量数据，后半部分是 AOF 格式的增量数据**。
 
+
+## Redis 集群
+#Todo 

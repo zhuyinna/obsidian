@@ -11,3 +11,5 @@
 	- [dunwu/linux-tutorial: :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本](https://github.com/dunwu/linux-tutorial)：仔细看一下： docker，linux应用开发
 - 安卓应用开发
 	- 问一下应涵倩学姐，项目进展
+- linux开发
+	- 在linux系统上开发一个应用
