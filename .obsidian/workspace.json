@@ -150,7 +150,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -174,6 +175,7 @@
   },
   "active": "d2ffe6729a27634b",
   "lastOpenFiles": [
+    "60-Attachment/Pasted image 20240402131756.png",
     "60-Attachment/Pasted image 20240402130331.png",
     "60-Attachment/Pasted image 20240402130005.png",
     "60-Attachment/Pasted image 20240402124855.png",
@@ -196,7 +198,6 @@
     "60-Attachment/Pasted image 20240401160506.png",
     "60-Attachment/Pasted image 20240401160237.png",
     "60-Attachment/Pasted image 20240401160226.png",
-    "60-Attachment/Pasted image 20240401114817.png",
     "20-Chunzhao/02-面经题目整理.md",
     "20-Chunzhao/A-基础知识/A-02-redis数据库.md",
     "20-Chunzhao/01-自我介绍.md",
