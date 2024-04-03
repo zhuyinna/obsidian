@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "A-02-redis数据库",
+      "path": "20-Chunzhao/A-基础知识/A-02-redis数据库.md"
+    },
+    {
+      "basename": "A-01-计算机网络整理",
+      "path": "20-Chunzhao/A-基础知识/A-01-计算机网络整理.md"
+    },
+    {
       "basename": "03-笔试&面试整理",
       "path": "20-Chunzhao/03-笔试&面试整理.md"
     },
@@ -25,20 +33,12 @@
       "path": "20-Chunzhao/00-准备@chatgpt.md"
     },
     {
-      "basename": "A-02-redis数据库",
-      "path": "20-Chunzhao/A-基础知识/A-02-redis数据库.md"
-    },
-    {
       "basename": "A-04-数据结构",
       "path": "20-Chunzhao/A-基础知识/A-04-数据结构.md"
     },
     {
       "basename": "01-自我介绍",
       "path": "20-Chunzhao/01-自我介绍.md"
-    },
-    {
-      "basename": "A-05-操作系统",
-      "path": "20-Chunzhao/A-基础知识/A-05-操作系统.md"
     }
   ],
   "omittedPaths": [],

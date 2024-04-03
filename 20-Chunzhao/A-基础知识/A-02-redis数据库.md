@@ -146,11 +146,28 @@ GEO：底层是sorted set，存储地理位置
   AOF 日志过大，会触发AOF重写机制，压缩。
   Redis 的**重写 AOF 过程是由后台子进程 _bgrewriteaof_ 来完成的**：注意是一个子进程，而不是线程： - 子进程重写期间，主进程可以继续处理，避免阻塞； - 避免了多线程会加锁导致性能下降的问题。子进程和主进程资源共享，但是是只读，如果发生了写，会进行【写时复制】，避免了加锁。
   【写时复制】可能导致复制之后主进程改变了数据，导致数据不一致？Redis 设置了一个 **AOF 重写缓冲区**，这个缓冲区在创建 bgrewriteaof 子进程之后开始使用
-- RDB快照
+  AOF文件写入阶段：过期的key会被删除，并在AOF文件中写入一条DEL命令；
+  AOF重写阶段：过期的key不会被保存到重写后的AOF文件。
+- RDB快照（Redis Database）
   两个命令：save 和 bgsave。其中save在主线程执行，会阻塞主线程。bgsave会创建一个子进程，不会阻塞。
+  RDB文件生成阶段：从内存持久化到RDB快照，会检查key是否过期，如果过期不会被载入到数据库；
+  RDB文件加载阶段：主服务器的话，过期key不会载入。从服务器，不论过期都会载入。
 - 混合
   使用了混合持久化，AOF 文件的**前半部分是 RDB 格式的全量数据，后半部分是 AOF 格式的增量数据**。
 
-
 ## Redis 集群
 #Todo 
+
+## Redis过期删除与内存淘汰
+
+从库不会删除过期key，从库对过期key的处理是被动的。客户端读从库过期key，会和未过期一样处理。从库过期key处理主要靠主库，主库key到期，会在AOF文件写入DEL，并同步到从库。
+
+### LRU和LFU
+[146. LRU 缓存 - 力扣（LeetCode）](https://leetcode.cn/problems/lru-cache/description/)
+[460. LFU 缓存 - 力扣（LeetCode）](https://leetcode.cn/problems/lfu-cache/description/)
+
+LRU: least recently used
+一般LRU是通过链表来存储，新的数据加到链表头，LRU只需要删除链表尾。但是这样redis就需要维护一个巨大的链表，因此redis的LRU是在redis对象结构体中额外引入时间戳字段，随机采样淘汰时间戳最久远的。
+
+LFU: least frequently used
+LRU存在问题：如果有一大批数据读取，但是只读取这么一次，需要很长时间才会把他们从缓存中清除。所以LFU对访问的频次考虑，在结构体中引入额外的字段。Redis对象头的 24 bits 的 lru 字段被分成两段来存储，高 16bit 存储 ldt(Last Decrement Time)，用来记录 key 的访问时间戳；低 8bit 存储 logc(Logistic Counter)，用来记录 key 的访问频次。
