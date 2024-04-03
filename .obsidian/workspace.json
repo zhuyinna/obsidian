@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md",
+                "file": "20-Chunzhao/B-leetcode/B-02-C++处理输入输出.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md"
+                "file": "20-Chunzhao/B-leetcode/B-02-C++处理输入输出.md"
               }
             }
           },
@@ -174,8 +174,8 @@
   },
   "active": "d2ffe6729a27634b",
   "lastOpenFiles": [
-    "20-Chunzhao/B-leetcode/B-02-C++处理输入输出.md",
     "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md",
+    "20-Chunzhao/B-leetcode/B-02-C++处理输入输出.md",
     "20-Chunzhao/00-准备@chatgpt.md",
     "20-Chunzhao/A-基础知识/A-02-redis数据库.md",
     "20-Chunzhao/A-基础知识/A-04-数据结构.md",
