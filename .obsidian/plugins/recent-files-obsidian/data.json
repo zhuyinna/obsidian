@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "实验进展",
+      "path": "40-Research/实验/实验进展.md"
+    },
+    {
       "basename": "B-01-经典题目思路归纳",
       "path": "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "A-04-数据结构",
       "path": "20-Chunzhao/A-基础知识/A-04-数据结构.md"
-    },
-    {
-      "basename": "01-自我介绍",
-      "path": "20-Chunzhao/01-自我介绍.md"
     }
   ],
   "omittedPaths": [],
