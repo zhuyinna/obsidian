@@ -113,6 +113,12 @@ mapStudent.erase(mapStudent.begin(), mapStudent.end());
 `m1.swap(m2)` ：交换两个map
 `lower_bound()`：返回键值>=给定元素的第一个位置
 `upper_bound()`：返回键值>给定元素的第一个位置
-# 函数
-## 循环
+# 头文件
+## algorithm
+
+### 二分查找
+![[Pasted image 20240412180542.png]]
+
+
+# 循环
 1.  for_each： `for_each(v.begin(), v.end(), print);`
