@@ -15,6 +15,30 @@
 
 
 # 容器系列
+
+## 删除/插入操作
+### 队列（Queue）
+push(): 插入元素至队尾
+pop(): 取出队头元素
+**front(): 访问队头元素**
+**back(): 访问队尾元素**
+### 栈（Stack）
+push(): 插入元素至栈顶
+pop(): 取出栈顶元素
+**top(): 访问栈顶元素**
+### 双向队列（Deque）
+push_back()
+push_front()
+pop_back()
+pop_front()
+front()
+back()
+### 向量（Vector）
+push_back()：插入至数组尾部
+pop_back(): 取出数组尾部元素
+insert(iterator position, [n], val): 插入[n]个相同的元素val至position（迭代器）
+erase(iterator first, [iterator last] ): 删除指定位置元素（迭代器）
+
 ## set
 ### 创建
 使用头文件：`#include<set>`
