@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-Chunzhao/B-leetcode/B-03-C++STL.md",
+                "file": "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-Chunzhao/B-leetcode/B-03-C++STL.md"
+                "file": "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md"
               }
             }
           },
@@ -174,12 +174,12 @@
   },
   "active": "d2ffe6729a27634b",
   "lastOpenFiles": [
-    "60-Attachment/Pasted image 20240412180542.png",
     "20-Chunzhao/B-leetcode/B-02-C++处理输入输出.md",
-    "40-Research/实验/实验进展.md",
-    "60-Attachment/Pasted image 20240411154412.png",
     "20-Chunzhao/B-leetcode/B-03-C++STL.md",
     "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md",
+    "60-Attachment/Pasted image 20240412180542.png",
+    "40-Research/实验/实验进展.md",
+    "60-Attachment/Pasted image 20240411154412.png",
     "20-Chunzhao/A-基础知识/A-02-redis数据库.md",
     "20-Chunzhao/A-基础知识/A-01-计算机网络整理.md",
     "20-Chunzhao/03-笔试&面试整理.md",
@@ -196,7 +196,6 @@
     "60-Attachment/Pasted image 20240402152819.png",
     "60-Attachment/Pasted image 20240402141859.png",
     "60-Attachment/Pasted image 20240402131756.png",
-    "60-Attachment/Pasted image 20240402130331.png",
     "00-Home/Home.md",
     "10-Mynote/日记/2024-04-02.md",
     "20-Chunzhao/A-基础知识/A-03-MySQL数据库.md",
