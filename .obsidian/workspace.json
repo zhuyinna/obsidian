@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "right": {
     "id": "02dbfd97c2edcf7b",
@@ -154,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,9 +176,9 @@
   },
   "active": "d2ffe6729a27634b",
   "lastOpenFiles": [
-    "20-Chunzhao/B-leetcode/B-02-C++处理输入输出.md",
     "20-Chunzhao/B-leetcode/B-03-C++STL.md",
     "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md",
+    "20-Chunzhao/B-leetcode/B-02-C++处理输入输出.md",
     "60-Attachment/Pasted image 20240412180542.png",
     "40-Research/实验/实验进展.md",
     "60-Attachment/Pasted image 20240411154412.png",
