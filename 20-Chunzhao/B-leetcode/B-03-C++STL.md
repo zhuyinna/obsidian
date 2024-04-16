@@ -137,6 +137,33 @@ mapStudent.erase(mapStudent.begin(), mapStudent.end());
 `m1.swap(m2)` ：交换两个map
 `lower_bound()`：返回键值>=给定元素的第一个位置
 `upper_bound()`：返回键值>给定元素的第一个位置
+
+## 优先级队列
+
+### 实现堆排序
+自定义比较函数：注意和vector是相反的
+```cpp
+struct cmp{
+    bool operator()(const string& s1, const string& s2) const{
+        // 和vector排序写法相反
+        // a < b : [vec] 升序    [pri] 大顶堆
+        return (s1.size() < s2.size()) || (s1.size() == s2.size() && s1 > s2);
+    }
+};
+
+void t_prique(){
+    vector<string> strs = {"xhh", "mmcy", "mi", "xhz", "abcdef"};
+
+    priority_queue<string, vector<string>, cmp> pri_que(strs.begin(), strs.end());
+
+    while(!pri_que.empty()){
+        cout << pri_que.top().size() << "  " << pri_que.top() << endl;
+        pri_que.pop();
+    }
+}
+
+```
+
 # 头文件
 ## algorithm
 
