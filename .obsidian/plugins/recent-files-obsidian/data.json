@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "库安装",
+      "path": "40-Research/服务器/库安装.md"
+    },
+    {
+      "basename": "实验进展",
+      "path": "40-Research/实验/实验进展.md"
+    },
+    {
       "basename": "B-01-经典题目思路归纳",
       "path": "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md"
     },
@@ -21,10 +29,6 @@
       "path": "20-Chunzhao/02-面经题目整理.md"
     },
     {
-      "basename": "实验进展",
-      "path": "40-Research/实验/实验进展.md"
-    },
-    {
       "basename": "A-02-redis数据库",
       "path": "20-Chunzhao/A-基础知识/A-02-redis数据库.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "00-准备@chatgpt",
       "path": "20-Chunzhao/00-准备@chatgpt.md"
-    },
-    {
-      "basename": "A-04-数据结构",
-      "path": "20-Chunzhao/A-基础知识/A-04-数据结构.md"
     }
   ],
   "omittedPaths": [],
