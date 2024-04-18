@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/C++面经题/1.md",
+                "file": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统/readme.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/C++面经题/1.md"
+                "file": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统/readme.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "vscode-editor:新建代码文件": false,
       "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "templates:插入模板": false,
@@ -174,6 +175,15 @@
   },
   "active": "d2ffe6729a27634b",
   "lastOpenFiles": [
+    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统/孤儿进程和僵尸进程的区别.md",
+    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统/readme.md",
+    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统/递归锁.md",
+    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统/IO复用的原理.md",
+    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统/进程的创建过程.md",
+    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统/函数调⽤和系统调⽤的区别.md",
+    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统/进程创建子进程.md",
+    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统/常⻅的IO模型.md",
+    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/C++面经题/1.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Python面试题/readme.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/1x1.md",
     "20-Chunzhao/00-准备@chatgpt.md",
@@ -191,15 +201,6 @@
     "80-NewFileFoler/未命名.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/readme.md",
     "40-Research/实验/A-01-技巧.md",
-    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统/鸵⻦策略.md",
-    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统/页和段的区别.md",
-    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统/银⾏家算法.md",
-    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统/进程间通信方式.md",
-    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统/递归锁.md",
-    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统/进程调度算法.md",
-    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统/进程的创建过程.md",
-    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统/进程状态转换图.md",
-    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统/进程和作业的区别？.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/C++面经题",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/落地面试题(量化蒸馏等)",
