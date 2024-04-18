@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Research/服务器/库安装.md",
+                "file": "40-Research/实验/A-01-技巧.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Research/服务器/库安装.md"
+                "file": "40-Research/实验/A-01-技巧.md"
               }
             }
           },
@@ -174,8 +174,9 @@
   },
   "active": "d2ffe6729a27634b",
   "lastOpenFiles": [
-    "40-Research/实验/实验进展.md",
     "40-Research/服务器/库安装.md",
+    "40-Research/实验/A-01-技巧.md",
+    "40-Research/实验/实验进展.md",
     "40-Research/服务器",
     "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md",
     "20-Chunzhao/B-leetcode/B-02-C++处理输入输出.md",
@@ -213,7 +214,6 @@
     "10-Mynote/旅游/安徽合肥.md",
     "30-Lookup/linux statement.md",
     "10-Mynote/吉他/更新日志.md",
-    "30-Lookup/inspur cluster.md",
     "未命名.canvas",
     "40-Research/生成模型",
     "40-Research/webserver调研",

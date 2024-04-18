@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "A-01-技巧",
+      "path": "40-Research/实验/A-01-技巧.md"
+    },
+    {
       "basename": "库安装",
       "path": "40-Research/服务器/库安装.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "A-01-计算机网络整理",
       "path": "20-Chunzhao/A-基础知识/A-01-计算机网络整理.md"
-    },
-    {
-      "basename": "00-准备@chatgpt",
-      "path": "20-Chunzhao/00-准备@chatgpt.md"
     }
   ],
   "omittedPaths": [],
