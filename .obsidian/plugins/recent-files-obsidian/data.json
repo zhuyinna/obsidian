@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "20-Chunzhao/C-CV_Interview/README.md"
+    },
+    {
       "basename": "A-01-技巧",
       "path": "40-Research/实验/A-01-技巧.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "A-02-redis数据库",
       "path": "20-Chunzhao/A-基础知识/A-02-redis数据库.md"
-    },
-    {
-      "basename": "A-01-计算机网络整理",
-      "path": "20-Chunzhao/A-基础知识/A-01-计算机网络整理.md"
     }
   ],
   "omittedPaths": [],
