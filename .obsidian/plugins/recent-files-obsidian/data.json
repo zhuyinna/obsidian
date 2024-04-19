@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "B-03-C++STL",
+      "path": "20-Chunzhao/B-leetcode/B-03-C++STL.md"
+    },
+    {
+      "basename": "B-01-经典题目思路归纳",
+      "path": "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md"
+    },
+    {
+      "basename": "B-02-C++处理输入输出",
+      "path": "20-Chunzhao/B-leetcode/B-02-C++处理输入输出.md"
+    },
+    {
       "basename": "readme",
       "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统/readme.md"
     },
@@ -27,18 +39,6 @@
     {
       "basename": "进程创建子进程",
       "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统/进程创建子进程.md"
-    },
-    {
-      "basename": "常⻅的IO模型",
-      "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统/常⻅的IO模型.md"
-    },
-    {
-      "basename": "1",
-      "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/C++面经题/1.md"
-    },
-    {
-      "basename": "readme",
-      "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Python面试题/readme.md"
     }
   ],
   "omittedPaths": [],

@@ -165,10 +165,17 @@ void t_prique(){
 ```
 
 # 头文件
-## algorithm
+## `#inluce<algorithm>`
 
 ### 二分查找
 ![[Pasted image 20240412180542.png]]
+
+## `#inluce<cmath>`
+<math.h>是C标准函数库中的头文件。在C++中一般用<cmath>。此头文件中声明了一系列函数来计算常见的数学运算和变换：
+
+
+
+
 
 
 # 循环

@@ -30,5 +30,6 @@
   "obsidian-export-image",
   "obsidian-git",
   "obsidian-day-planner",
-  "vscode-editor"
+  "vscode-editor",
+  "codeblock-customizer"
 ]
