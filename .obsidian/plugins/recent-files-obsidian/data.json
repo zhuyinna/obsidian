@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "A-01-技巧",
+      "path": "40-Research/实验/A-01-技巧.md"
+    },
+    {
+      "basename": "实验进展",
+      "path": "40-Research/实验/实验进展.md"
+    },
+    {
       "basename": "B-03-C++STL",
       "path": "20-Chunzhao/B-leetcode/B-03-C++STL.md"
     },
@@ -31,14 +39,6 @@
     {
       "basename": "IO复用的原理",
       "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统/IO复用的原理.md"
-    },
-    {
-      "basename": "进程的创建过程",
-      "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统/进程的创建过程.md"
-    },
-    {
-      "basename": "函数调⽤和系统调⽤的区别",
-      "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统/函数调⽤和系统调⽤的区别.md"
     }
   ],
   "omittedPaths": [],

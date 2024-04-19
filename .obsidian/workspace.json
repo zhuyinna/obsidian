@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-Chunzhao/B-leetcode/B-03-C++STL.md",
+                "file": "40-Research/实验/A-01-技巧.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-Chunzhao/B-leetcode/B-03-C++STL.md"
+                "file": "40-Research/实验/A-01-技巧.md"
               }
             }
           },
@@ -176,9 +176,10 @@
   },
   "active": "779ad46aaf9b379a",
   "lastOpenFiles": [
+    "40-Research/实验/实验进展.md",
+    "20-Chunzhao/B-leetcode/B-03-C++STL.md",
     "20-Chunzhao/B-leetcode/B-02-C++处理输入输出.md",
     "00-Home/Home.md",
-    "20-Chunzhao/B-leetcode/B-03-C++STL.md",
     "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统/readme.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统/孤儿进程和僵尸进程的区别.md",
@@ -201,7 +202,6 @@
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/机器学习面试题/3. 写一下PCA的代码.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/机器学习面试题/2. 写一下K-Means代码.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/机器学习面试题/1. 写一下KNN的代码.md",
-    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/机器学习面试题/readme.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/C++面经题",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/落地面试题(量化蒸馏等)",
