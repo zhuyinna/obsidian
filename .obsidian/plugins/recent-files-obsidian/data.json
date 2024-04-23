@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "markdown statement",
+      "path": "30-Lookup/markdown statement.md"
+    },
+    {
+      "basename": "Home",
+      "path": "00-Home/Home.md"
+    },
+    {
       "basename": "image",
       "path": "40-Research/实验/实验/image.png"
     },
@@ -31,14 +39,6 @@
     {
       "basename": "B-03-C++STL",
       "path": "20-Chunzhao/B-leetcode/B-03-C++STL.md"
-    },
-    {
-      "basename": "B-02-C++处理输入输出",
-      "path": "20-Chunzhao/B-leetcode/B-02-C++处理输入输出.md"
-    },
-    {
-      "basename": "Home",
-      "path": "00-Home/Home.md"
     }
   ],
   "omittedPaths": [],
