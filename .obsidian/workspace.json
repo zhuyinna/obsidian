@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30-Lookup/markdown statement.md",
+                "file": "40-Research/实验/A-01-技巧.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30-Lookup/markdown statement.md"
+                "file": "40-Research/实验/A-01-技巧.md"
               }
             }
           },
@@ -186,6 +186,7 @@
   },
   "active": "32a53fc6d53f9603",
   "lastOpenFiles": [
+    "30-Lookup/markdown statement.md",
     "00-Home/Home.md",
     "40-Research/实验/实验/image.png",
     "40-Research/实验/A-01-技巧.md",
