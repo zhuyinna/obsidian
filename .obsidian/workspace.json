@@ -44,9 +44,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1363aeda45930285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30-Lookup/markdown statement.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40-Research/实验/A-01-技巧.md"
+                "file": "30-Lookup/markdown statement.md"
               }
             }
           },
@@ -184,12 +197,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "32a53fc6d53f9603",
+  "active": "1363aeda45930285",
   "lastOpenFiles": [
-    "30-Lookup/markdown statement.md",
     "00-Home/Home.md",
-    "40-Research/实验/实验/image.png",
     "40-Research/实验/A-01-技巧.md",
+    "30-Lookup/markdown statement.md",
+    "40-Research/实验/实验/image.png",
     "40-Research/实习/计算机语言/Java/Resource.md",
     "40-Research/实习/面试记录.md",
     "40-Research/实习/计算机网络/HTTP状态码.md",

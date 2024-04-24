@@ -11,33 +11,33 @@ DESC: markdown语句
 # 1. 希腊字母
 ***
 
-| 大写       | markdown语法 | 小写       | markdown语法 |
-| ---------- | ------------ | ---------- | ------------ |
-| $A$        | `A`          | $\alpha$   | `\alpha`     |
-| $B$        | `B`          | $\beta$    | `\beta`      |
-| $\Gamma$   | `\Gamma`     | $\gamma$   | `\gamma`     |
-| $\Delta$   | `\Delta`     | $\delta$   | `\delta`     |
-| $E$        | `E`          | $\epsilon$ | `\epsilon`   |
-| $Z$        | `Z`          | $\zeta$    | `\zeta`      |
-| $H$        | `H`          | $\eta$     | `\eta`       |
-| $\Theta$   | `\Theta`     | $\theta$   | `\theta`     |
-| $I$        | `I`          | $\iota$    | `\iota`      |
-| $K$        | `K`          | $\kappa$   | `\kappa`     |
-| $\Lambda$  | `\Lambda`    | $\lambda$  | `\lambda`    |
-| $M$        | `M`          | $\mu$      | `mu`         |
-| $N$        | `N`          | $\nu$      | `\nu`        |
-| $\Xi$      | `\Xi`        | $\xi$      | `\xi`        |
-| $O$        | `O`          | $\omicron$ | `\omicron`   |
-| $\Pi$      | `\Pi`        | $\pi$      | `\pi`        |
-| $P$        | `P`          | $\rho$     | `\rho`       |
-| $\Sigma$   | `\Sigma`     | $\sigma$   | `\sigma`     |
-| $T$        | `T`          | $\tau$     | `\tau`       |
-| $\Upsilon$ | `\Upsilon`   | $\upsilon$ | `\upsilon`   |
-| $\Phi$     | `\Phi`       | $\phi$     | `\phi`       |
-| $\Phi$     | `\Phi`       | $\varphi$  | `\varphi`    |
-| $X$        | `X`          | $\chi$     | `\chi`       |
-| $\Psi$     | `\Psi`       | $\psi$     | `\psi`       |
-| $\Omega$   | `\Omega`             |$\omega$            |`\omega`              |
+| 大写         | markdown语法 | 小写         | markdown语法 |
+| ---------- | ---------- | ---------- | ---------- |
+| $A$        | `A`        | $\alpha$   | `\alpha`   |
+| $B$        | `B`        | $\beta$    | `\beta`    |
+| $\Gamma$   | `\Gamma`   | $\gamma$   | `\gamma`   |
+| $\Delta$   | `\Delta`   | $\delta$   | `\delta`   |
+| $E$        | `E`        | $\epsilon$ | `\epsilon` |
+| $Z$        | `Z`        | $\zeta$    | `\zeta`    |
+| $H$        | `H`        | $\eta$     | `\eta`     |
+| $\Theta$   | `\Theta`   | $\theta$   | `\theta`   |
+| $I$        | `I`        | $\iota$    | `\iota`    |
+| $K$        | `K`        | $\kappa$   | `\kappa`   |
+| $\Lambda$  | `\Lambda`  | $\lambda$  | `\lambda`  |
+| $M$        | `M`        | $\mu$      | `mu`       |
+| $N$        | `N`        | $\nu$      | `\nu`      |
+| $\Xi$      | `\Xi`      | $\xi$      | `\xi`      |
+| $O$        | `O`        | $\omicron$ | `\omicron` |
+| $\Pi$      | `\Pi`      | $\pi$      | `\pi`      |
+| $P$        | `P`        | $\rho$     | `\rho`     |
+| $\Sigma$   | `\Sigma`   | $\sigma$   | `\sigma`   |
+| $T$        | `T`        | $\tau$     | `\tau`     |
+| $\Upsilon$ | `\Upsilon` | $\upsilon$ | `\upsilon` |
+| $\Phi$     | `\Phi`     | $\phi$     | `\phi`     |
+| $\Phi$     | `\Phi`     | $\varphi$  | `\varphi`  |
+| $X$        | `X`        | $\chi$     | `\chi`     |
+| $\Psi$     | `\Psi`     | $\psi$     | `\psi`     |
+| $\Omega$   | `\Omega`   | $\omega$   | `\omega`   |
 
 
 # 2. 特殊字符
