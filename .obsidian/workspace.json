@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30-Lookup/markdown statement.md",
+                "file": "20-Chunzhao/01-自我介绍.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "right": {
     "id": "02dbfd97c2edcf7b",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30-Lookup/markdown statement.md"
+                "file": "20-Chunzhao/01-自我介绍.md"
               }
             }
           },
@@ -200,9 +199,10 @@
   },
   "active": "1363aeda45930285",
   "lastOpenFiles": [
+    "20-Chunzhao/02-面经题目整理.md",
+    "30-Lookup/markdown statement.md",
     "00-Home/Home.md",
     "40-Research/实验/A-01-技巧.md",
-    "30-Lookup/markdown statement.md",
     "40-Research/实验/实验/image.png",
     "40-Research/实习/计算机语言/Java/Resource.md",
     "40-Research/实习/面试记录.md",
@@ -225,7 +225,6 @@
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/1x1.md",
     "20-Chunzhao/00-准备@chatgpt.md",
     "20-Chunzhao/03-笔试&面试整理.md",
-    "20-Chunzhao/02-面经题目整理.md",
     "20-Chunzhao/01-自我介绍.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/C++面经题",
