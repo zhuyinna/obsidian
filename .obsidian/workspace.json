@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-Chunzhao/01-自我介绍.md",
+                "file": "20-Chunzhao/03-笔试&面试整理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-Chunzhao/01-自我介绍.md"
+                "file": "20-Chunzhao/03-笔试&面试整理.md"
               }
             }
           },
@@ -200,6 +200,7 @@
   "active": "1363aeda45930285",
   "lastOpenFiles": [
     "20-Chunzhao/02-面经题目整理.md",
+    "20-Chunzhao/01-自我介绍.md",
     "30-Lookup/markdown statement.md",
     "00-Home/Home.md",
     "40-Research/实验/A-01-技巧.md",
@@ -225,7 +226,6 @@
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/1x1.md",
     "20-Chunzhao/00-准备@chatgpt.md",
     "20-Chunzhao/03-笔试&面试整理.md",
-    "20-Chunzhao/01-自我介绍.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/操作系统",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/C++面经题",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/落地面试题(量化蒸馏等)",
