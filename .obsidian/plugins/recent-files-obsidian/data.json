@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "inspur cluster",
+      "path": "30-Lookup/inspur cluster.md"
+    },
+    {
+      "basename": "Home",
+      "path": "00-Home/Home.md"
+    },
+    {
+      "basename": "linux statement",
+      "path": "30-Lookup/linux statement.md"
+    },
+    {
       "basename": "03-笔试&面试整理",
       "path": "20-Chunzhao/03-笔试&面试整理.md"
     },
@@ -17,10 +29,6 @@
       "path": "30-Lookup/markdown statement.md"
     },
     {
-      "basename": "Home",
-      "path": "00-Home/Home.md"
-    },
-    {
       "basename": "A-01-技巧",
       "path": "40-Research/实验/A-01-技巧.md"
     },
@@ -31,14 +39,6 @@
     {
       "basename": "Resource",
       "path": "40-Research/实习/计算机语言/Java/Resource.md"
-    },
-    {
-      "basename": "面试记录",
-      "path": "40-Research/实习/面试记录.md"
-    },
-    {
-      "basename": "HTTP状态码",
-      "path": "40-Research/实习/计算机网络/HTTP状态码.md"
     }
   ],
   "omittedPaths": [],

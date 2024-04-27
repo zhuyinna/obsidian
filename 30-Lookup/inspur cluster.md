@@ -94,7 +94,9 @@ ssh ip: 10.134.142.225
 port: 9999
 
 
-
+## SCP传输
+其中：-c aes128-gcm@openssh.com 表示加密算法，不同加密算法影响传输速度
+` scp -P 6801 -c aes128-gcm@openssh.com .\img_highres_seg-002.zip ynzhu@10.134.142.143:/home/ynzhu/workspace/VCLD/fashion/fashion_background/`
 
 
 tags: #LUT
