@@ -83,9 +83,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad6168655e5cf05e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40-Research/实验/实验进展.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ec48b13282188c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30-Lookup/linux statement.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -159,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30-Lookup/inspur cluster.md"
+                "file": "30-Lookup/linux statement.md"
               }
             }
           },
@@ -223,10 +249,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "c667c6e6a5fe8760",
+  "active": "1ec48b13282188c1",
   "lastOpenFiles": [
     "00-Home/Home.md",
+    "40-Research/实验/实验进展.md",
     "30-Lookup/linux statement.md",
+    "30-Lookup/inspur cluster.md",
     "20-Chunzhao/03-笔试&面试整理.md",
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/codes/java/sfo_68i_the_nearest_common_ancestor_of_a_binary_search_tree_s3/sfo_68i_the_nearest_common_ancestor_of_a_binary_search_tree_s3.java",
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/codes/java/sfo_68i_the_nearest_common_ancestor_of_a_binary_search_tree_s2/sfo_68i_the_nearest_common_ancestor_of_a_binary_search_tree_s2.java",
@@ -259,8 +287,6 @@
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 55 - I. 二叉树的深度.md",
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 55 - II. 平衡二叉树.md",
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 54. 二叉搜索树的第 k 大节点.md",
-    "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 53 - II. 0～n-1 中缺失的数字.md",
-    "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 52. 两个链表的第一个公共节点.md",
     "40-Research/实验/实验/image.png",
     "60-Attachment/Pasted image 20240412180542.png",
     "60-Attachment/Pasted image 20240411154412.png",
