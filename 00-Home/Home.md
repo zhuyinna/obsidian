@@ -21,11 +21,9 @@ dv.paragraph(
     - [[inspur cluster]]
     - [[按钮模板]]
 - **快速导航**
-    - [[校车]]   
     - [[校历]]
     - [[40-Research/Home]]
     - [[HPE note]]
-    - [[实验记录]]
 
 - **笔记**
     - `button-daily`

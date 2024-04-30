@@ -23,87 +23,12 @@
             }
           },
           {
-            "id": "779ad46aaf9b379a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "40-Research/实验/实验/image.png"
-              }
-            }
-          },
-          {
-            "id": "32a53fc6d53f9603",
+            "id": "856da2d82a3c1b3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40-Research/实验/A-01-技巧.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1363aeda45930285",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20-Chunzhao/03-笔试&面试整理.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2dcadc8b9de97eaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30-Lookup/linux statement.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c667c6e6a5fe8760",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30-Lookup/inspur cluster.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad6168655e5cf05e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40-Research/实验/实验进展.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ec48b13282188c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20-Chunzhao/C-CV_Interview/大模型/大模型面试八股.md",
+                "file": "20-Chunzhao/B-leetcode/B-03-C++STL.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -111,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 256.5
   },
   "right": {
     "id": "02dbfd97c2edcf7b",
@@ -185,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-Chunzhao/C-CV_Interview/大模型/大模型面试八股.md"
+                "file": "20-Chunzhao/B-leetcode/B-03-C++STL.md"
               }
             }
           },
@@ -225,12 +150,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,23 +167,43 @@
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
       "templater-obsidian:Templater": false,
-      "obsidian42-brat:BRAT": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "1ec48b13282188c1",
+  "active": "856da2d82a3c1b3d",
   "lastOpenFiles": [
-    "40-Research/实验/实验进展.md",
+    "20-Chunzhao/B-leetcode/B-02-C++处理输入输出.md",
+    "20-Chunzhao/B-leetcode/B-03-C++STL.md",
+    "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md",
+    "00-Home/Home.md",
+    "20-Chunzhao/C-CV_Interview/LeetCode-Book/leetbook_ioa/docs/# 7.4 归并排序.md",
+    "20-Chunzhao/C-CV_Interview/LeetCode-Book/leetbook_ioa/docs.md",
+    "30-Lookup/windows.md",
+    "80-NewFileFoler/1..md",
+    "30-Lookup/obsidian.md",
+    "30-Lookup/markdown statement.md",
+    "30-Lookup/linux statement.md",
+    "30-Lookup/inspur cluster.md",
+    "10-Mynote/事项/学校/校历.md",
+    "10-Mynote/提醒.md",
+    "10-Mynote/事项/党支部/科普活动/20230311/活动流程.md",
+    "10-Mynote/事项/党支部/时间节点.md",
+    "10-Mynote/事项/党支部/科普活动/活动概览.md",
+    "10-Mynote/事项/学校/访客预约登记用户手册（校内）.pdf",
+    "10-Mynote/事项/学校/校车.md",
+    "10-Mynote/事项/党支部/会议记录/2023民主评议/二十大心得体会.md",
+    "10-Mynote/日记/000-capture/capture.md",
+    "10-Mynote/事项/党支部/会议记录/2023民主评议/党小组互评.md",
+    "10-Mynote/年报/2023.md",
+    "10-Mynote/旅游/目的地.md",
+    "10-Mynote/旅游/安徽合肥.md",
     "20-Chunzhao/C-CV_Interview/大模型/大模型面试八股.md",
+    "40-Research/实验/实验进展.md",
     "20-Chunzhao/C-CV_Interview/大模型",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/未命名",
-    "30-Lookup/linux statement.md",
-    "00-Home/Home.md",
-    "30-Lookup/inspur cluster.md",
-    "20-Chunzhao/03-笔试&面试整理.md",
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/codes/java/sfo_68i_the_nearest_common_ancestor_of_a_binary_search_tree_s3/sfo_68i_the_nearest_common_ancestor_of_a_binary_search_tree_s3.java",
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/codes/java/sfo_68i_the_nearest_common_ancestor_of_a_binary_search_tree_s2/sfo_68i_the_nearest_common_ancestor_of_a_binary_search_tree_s2.java",
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/codes/java/sfo_68i_the_nearest_common_ancestor_of_a_binary_search_tree_s1/sfo_68i_the_nearest_common_ancestor_of_a_binary_search_tree_s1.java",
@@ -266,27 +211,6 @@
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/codes/java/sfo_68ii_the_nearest_common_ancestor_of_a_binary_tree_s1/sfo_68ii_the_nearest_common_ancestor_of_a_binary_tree_s1.java",
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/codes/java/sfo_67_convert_string_to_int_s2/sfo_67_convert_string_to_int_s2.java",
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/codes/java/sfo_67_convert_string_to_int_s1/sfo_67_convert_string_to_int_s1.java",
-    "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/codes/java/sfo_65_implement_addition_operation_without_arithmetic_operators_s1/sfo_65_implement_addition_operation_without_arithmetic_operators_s1.java",
-    "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 68 - II. 二叉树的最近公共祖先.md",
-    "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 68 - I. 二叉搜索树的最近公共祖先.md",
-    "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 67. 把字符串转换成整数.md",
-    "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 66. 构建乘积数组.md",
-    "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 64. 求 1 + 2 + … + n.md",
-    "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 65. 不用加减乘除做加法.md",
-    "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 63. 股票的最大利润.md",
-    "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 62. 圆圈中最后剩下的数字.md",
-    "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 61. 扑克牌中的顺子.md",
-    "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 60. n 个骰子的点数.md",
-    "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 59 - I. 滑动窗口的最大值.md",
-    "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 59 - II. 队列的最大值.md",
-    "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 58 - II. 左旋转字符串.md",
-    "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 57. 和为 s 的两个数字.md",
-    "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 58 - I. 翻转单词顺序.md",
-    "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 57 - II. 和为 s 的连续正数序列.md",
-    "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 56 - II. 数组中数字出现的次数 II.md",
-    "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 56 - I. 数组中数字出现的次数.md",
-    "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 55 - I. 二叉树的深度.md",
-    "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 55 - II. 平衡二叉树.md",
     "40-Research/实验/实验/image.png",
     "60-Attachment/Pasted image 20240412180542.png",
     "60-Attachment/Pasted image 20240411154412.png",
