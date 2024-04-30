@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30-Lookup/linux statement.md",
+                "file": "20-Chunzhao/C-CV_Interview/大模型/大模型面试八股.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30-Lookup/linux statement.md"
+                "file": "20-Chunzhao/C-CV_Interview/大模型/大模型面试八股.md"
               }
             }
           },
@@ -251,9 +251,12 @@
   },
   "active": "1ec48b13282188c1",
   "lastOpenFiles": [
-    "00-Home/Home.md",
     "40-Research/实验/实验进展.md",
+    "20-Chunzhao/C-CV_Interview/大模型/大模型面试八股.md",
+    "20-Chunzhao/C-CV_Interview/大模型",
+    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/未命名",
     "30-Lookup/linux statement.md",
+    "00-Home/Home.md",
     "30-Lookup/inspur cluster.md",
     "20-Chunzhao/03-笔试&面试整理.md",
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/codes/java/sfo_68i_the_nearest_common_ancestor_of_a_binary_search_tree_s3/sfo_68i_the_nearest_common_ancestor_of_a_binary_search_tree_s3.java",
@@ -264,8 +267,6 @@
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/codes/java/sfo_67_convert_string_to_int_s2/sfo_67_convert_string_to_int_s2.java",
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/codes/java/sfo_67_convert_string_to_int_s1/sfo_67_convert_string_to_int_s1.java",
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/codes/java/sfo_65_implement_addition_operation_without_arithmetic_operators_s1/sfo_65_implement_addition_operation_without_arithmetic_operators_s1.java",
-    "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/codes/java/sfo_66_a_product_array_puzzle_s1/sfo_66_a_product_array_puzzle_s1.java",
-    "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/codes/java/sfo_63_the_maximum_profit_of_stocks_s1/sfo_63_the_maximum_profit_of_stocks_s1.java",
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 68 - II. 二叉树的最近公共祖先.md",
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 68 - I. 二叉搜索树的最近公共祖先.md",
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 67. 把字符串转换成整数.md",
@@ -286,7 +287,6 @@
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 56 - I. 数组中数字出现的次数.md",
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 55 - I. 二叉树的深度.md",
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 55 - II. 平衡二叉树.md",
-    "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/docs/剑指 Offer 54. 二叉搜索树的第 k 大节点.md",
     "40-Research/实验/实验/image.png",
     "60-Attachment/Pasted image 20240412180542.png",
     "60-Attachment/Pasted image 20240411154412.png",

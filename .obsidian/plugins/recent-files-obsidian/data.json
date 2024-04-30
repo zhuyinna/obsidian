@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "大模型面试八股",
+      "path": "20-Chunzhao/C-CV_Interview/大模型/大模型面试八股.md"
+    },
+    {
+      "basename": "实验进展",
+      "path": "40-Research/实验/实验进展.md"
+    },
+    {
       "basename": "linux statement",
       "path": "30-Lookup/linux statement.md"
     },
     {
       "basename": "Home",
       "path": "00-Home/Home.md"
-    },
-    {
-      "basename": "实验进展",
-      "path": "40-Research/实验/实验进展.md"
     },
     {
       "basename": "inspur cluster",
@@ -35,10 +39,6 @@
     {
       "basename": "A-01-技巧",
       "path": "40-Research/实验/A-01-技巧.md"
-    },
-    {
-      "basename": "image",
-      "path": "40-Research/实验/实验/image.png"
     }
   ],
   "omittedPaths": [],
