@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8eaa72a3c414713a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30-Lookup/linux statement.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-Chunzhao/B-leetcode/B-03-C++STL.md"
+                "file": "30-Lookup/linux statement.md"
               }
             }
           },
@@ -155,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,18 +181,18 @@
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
       "templater-obsidian:Templater": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "856da2d82a3c1b3d",
+  "active": "8eaa72a3c414713a",
   "lastOpenFiles": [
-    "20-Chunzhao/B-leetcode/B-02-C++处理输入输出.md",
-    "20-Chunzhao/B-leetcode/B-03-C++STL.md",
-    "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md",
     "00-Home/Home.md",
+    "20-Chunzhao/B-leetcode/B-03-C++STL.md",
+    "20-Chunzhao/B-leetcode/B-02-C++处理输入输出.md",
+    "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md",
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/leetbook_ioa/docs/# 7.4 归并排序.md",
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/leetbook_ioa/docs.md",
     "30-Lookup/windows.md",
