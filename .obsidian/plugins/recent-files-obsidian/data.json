@@ -1,40 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "日记快速达到指南",
-      "path": "10-Mynote/日记快速达到指南.md"
-    },
-    {
-      "basename": "2024-04-03",
-      "path": "10-Mynote/日记/2024-04-03.md"
-    },
-    {
-      "basename": "2023",
-      "path": "10-Mynote/年报/2023.md"
-    },
-    {
-      "basename": "obsidian",
-      "path": "30-Lookup/obsidian.md"
+      "basename": "2024-05-07",
+      "path": "10-Mynote/日记/2024-05-07.md"
     },
     {
       "basename": "Home",
       "path": "00-Home/Home.md"
     },
     {
-      "basename": "linux statement",
-      "path": "30-Lookup/linux statement.md"
+      "basename": "日记模板",
+      "path": "70-Template/Mytemplate/日记模板.md"
     },
     {
-      "basename": "B-03-C++STL",
-      "path": "20-Chunzhao/B-leetcode/B-03-C++STL.md"
+      "basename": "日记快速到达指南",
+      "path": "10-Mynote/日记快速到达指南.md"
     },
     {
-      "basename": "B-02-C++处理输入输出",
-      "path": "20-Chunzhao/B-leetcode/B-02-C++处理输入输出.md"
+      "basename": "make_dataview",
+      "path": "10-Mynote/make_dataview.py"
     },
     {
-      "basename": "B-01-经典题目思路归纳",
-      "path": "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md"
+      "basename": "看板模板",
+      "path": "70-Template/Mytemplate/看板模板.md"
+    },
+    {
+      "basename": "电影模板",
+      "path": "70-Template/Mytemplate/电影模板.md"
+    },
+    {
+      "basename": "2022-11-28",
+      "path": "10-Mynote/日记/2022/2022-11-28.md"
+    },
+    {
+      "basename": "小记2022-01至2022-06",
+      "path": "10-Mynote/日记/2022/小记2022-01至2022-06.md"
+    },
+    {
+      "basename": "obsidian",
+      "path": "30-Lookup/obsidian.md"
     }
   ],
   "omittedPaths": [],
