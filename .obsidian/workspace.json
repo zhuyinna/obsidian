@@ -35,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/transformer代码.md"
+                "file": "00-Home/Home.md"
               }
             }
           },
@@ -150,8 +149,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,13 +171,17 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "d7073f96d0c724a1",
+  "active": "c62e88aeead5e250",
   "lastOpenFiles": [
+    "30-Lookup/markdown statement.md",
+    "00-Home/Home.md",
+    "30-Lookup/obsidian.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/transformer代码.md",
+    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/BN_LN区别.md",
+    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/BN_LN区别md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/说一下transformer.md",
     "10-Mynote/make_dataview.py",
     "10-Mynote/日记快速到达指南.md",
-    "00-Home/Home.md",
     "10-Mynote/日记/2024-05-07.md",
     "70-Template/Mytemplate/日记模板.md",
     "10-Mynote/日记/make_dataview.py",
@@ -189,7 +191,6 @@
     "70-Template/Mytemplate/电影模板.md",
     "10-Mynote/日记/2022/2022-11-28.md",
     "10-Mynote/日记/2022/小记2022-01至2022-06.md",
-    "30-Lookup/obsidian.md",
     "10-Mynote/日记/2024-04-03.md",
     "10-Mynote/年报/2023.md",
     "10-Mynote/日记/add_tag.py",
@@ -201,16 +202,13 @@
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/leetbook_ioa/docs.md",
     "30-Lookup/windows.md",
     "80-NewFileFoler/1..md",
-    "30-Lookup/markdown statement.md",
     "30-Lookup/inspur cluster.md",
-    "10-Mynote/事项/学校/校历.md",
     "10-Mynote/事项/学校/访客预约登记用户手册（校内）.pdf",
     "20-Chunzhao/C-CV_Interview/大模型",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/未命名",
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/codes/java/sfo_68i_the_nearest_common_ancestor_of_a_binary_search_tree_s3/sfo_68i_the_nearest_common_ancestor_of_a_binary_search_tree_s3.java",
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/codes/java/sfo_68i_the_nearest_common_ancestor_of_a_binary_search_tree_s2/sfo_68i_the_nearest_common_ancestor_of_a_binary_search_tree_s2.java",
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/codes/java/sfo_68i_the_nearest_common_ancestor_of_a_binary_search_tree_s1/sfo_68i_the_nearest_common_ancestor_of_a_binary_search_tree_s1.java",
-    "20-Chunzhao/C-CV_Interview/LeetCode-Book/sword_for_offer/codes/java/sfo_68ii_the_nearest_common_ancestor_of_a_binary_tree_s2/sfo_68ii_the_nearest_common_ancestor_of_a_binary_tree_s2.java",
     "40-Research/实验/实验/image.png",
     "60-Attachment/Pasted image 20240412180542.png",
     "60-Attachment/Pasted image 20240411154412.png",
