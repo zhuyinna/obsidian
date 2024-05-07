@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "linux statement",
-      "path": "30-Lookup/linux statement.md"
+      "basename": "日记快速达到指南",
+      "path": "10-Mynote/日记快速达到指南.md"
+    },
+    {
+      "basename": "2024-04-03",
+      "path": "10-Mynote/日记/2024-04-03.md"
+    },
+    {
+      "basename": "2023",
+      "path": "10-Mynote/年报/2023.md"
+    },
+    {
+      "basename": "obsidian",
+      "path": "30-Lookup/obsidian.md"
     },
     {
       "basename": "Home",
       "path": "00-Home/Home.md"
+    },
+    {
+      "basename": "linux statement",
+      "path": "30-Lookup/linux statement.md"
     },
     {
       "basename": "B-03-C++STL",
@@ -19,26 +35,6 @@
     {
       "basename": "B-01-经典题目思路归纳",
       "path": "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md"
-    },
-    {
-      "basename": "# 7.4 归并排序",
-      "path": "20-Chunzhao/C-CV_Interview/LeetCode-Book/leetbook_ioa/docs/# 7.4 归并排序.md"
-    },
-    {
-      "basename": "docs",
-      "path": "20-Chunzhao/C-CV_Interview/LeetCode-Book/leetbook_ioa/docs.md"
-    },
-    {
-      "basename": "windows",
-      "path": "30-Lookup/windows.md"
-    },
-    {
-      "basename": "obsidian",
-      "path": "30-Lookup/obsidian.md"
-    },
-    {
-      "basename": "markdown statement",
-      "path": "30-Lookup/markdown statement.md"
     }
   ],
   "omittedPaths": [],
