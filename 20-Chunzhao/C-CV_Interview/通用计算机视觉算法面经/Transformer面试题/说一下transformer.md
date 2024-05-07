@@ -23,7 +23,7 @@
 
 上图 Decoder 接收了 Encoder 的编码矩阵 **C**，然后首先输入一个翻译开始符 `"<Begin>"`，预测第一个单词 "I"；然后输入翻译开始符` "<Begin>"` 和单词 "I"，预测单词 "have"，以此类推。这是 Transformer 使用时候的大致流程，接下来是里面各个部分的细节。
 
-## 2. Transformer 的输入
+	## 2. Transformer 的输入
 
 Transformer 中单词的输入表示 **x**由**单词 Embedding** 和**位置 Embedding** （Positional Encoding）相加得到。
 
@@ -157,13 +157,13 @@ Feed Forward 层比较简单，是一个两层的全连接层，第一层的激�
 
 Decoder block 的第一个 Multi-Head Attention 采用了 Masked 操作，因为在翻译的过程中是顺序翻译的，即翻译完第 i 个单词，才可以翻译第 i+1 个单词。通过 Masked 操作可以防止第 i 个单词知道 i+1 个单词之后的信息。下面以 "我有一只猫" 翻译成 "I have a cat" 为例，了解一下 Masked 操作。
 
-下面的描述中使用了类似 Teacher Forcing 的概念，不熟悉 Teacher Forcing 的童鞋可以参考以下上一篇文章Seq2Seq 模型详解。在 Decoder 的时候，是需要根据之前的翻译，求解当前最有可能的翻译，如下图所示。首先根据输入 "<Begin>" 预测出第一个单词为 "I"，然后根据输入 "<Begin> I" 预测下一个单词 "have"。
+下面的描述中使用了类似 Teacher Forcing 的概念，不熟悉 Teacher Forcing 的童鞋可以参考以下上一篇文章Seq2Seq 模型详解。在 Decoder 的时候，是需要根据之前的翻译，求解当前最有可能的翻译，如下图所示。首先根据输入 `"<Begin>"` 预测出第一个单词为 "I"，然后根据输入` "<Begin> I"` 预测下一个单词 "have"。
 
 ![img](https://pic1.zhimg.com/80/v2-4616451fe8aa59b2df2ead30fa31dc98_1440w.jpg)Decoder 预测
 
-Decoder 可以在训练的过程中使用 Teacher Forcing 并且并行化训练，即将正确的单词序列 (<Begin> I have a cat) 和对应输出 (I have a cat <end>) 传递到 Decoder。那么在预测第 i 个输出时，就要将第 i+1 之后的单词掩盖住，**注意 Mask 操作是在 Self-Attention 的 Softmax 之前使用的，下面用 0 1 2 3 4 5 分别表示 "<Begin> I have a cat <end>"。**
+Decoder 可以在训练的过程中使用 Teacher Forcing 并且并行化训练，即将正确的单词序列 (`<Begin>` I have a cat) 和对应输出 (I have a cat` <end>`) 传递到 Decoder。那么在预测第 i 个输出时，就要将第 i+1 之后的单词掩盖住，**注意 Mask 操作是在 Self-Attention 的 Softmax 之前使用的，下面用 0 1 2 3 4 5 分别表示 `"<Begin> I have a cat <end>"`。**
 
-**第一步：**是 Decoder 的输入矩阵和 **Mask** 矩阵，输入矩阵包含 "<Begin> I have a cat" (0, 1, 2, 3, 4) 五个单词的表示向量，**Mask** 是一个 5×5 的矩阵。在 **Mask** 可以发现单词 0 只能使用单词 0 的信息，而单词 1 可以使用单词 0, 1 的信息，即只能使用之前的信息。
+**第一步：** 是 Decoder 的输入矩阵和 **Mask** 矩阵，输入矩阵包含 `"<Begin> I have a cat" `(0, 1, 2, 3, 4) 五个单词的表示向量，**Mask** 是一个 5×5 的矩阵。在 **Mask** 可以发现单词 0 只能使用单词 0 的信息，而单词 1 可以使用单词 0, 1 的信息，即只能使用之前的信息。
 
 ![img](https://pic1.zhimg.com/80/v2-b26299d383aee0dd42b163e8bda74fc8_1440w.jpg)输入矩阵与 Mask 矩阵
 

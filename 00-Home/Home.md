@@ -14,16 +14,16 @@ dv.paragraph(
 ```
 
 - **LUT**
-    -  [[windows]]
-    - [[obsidian|obsidian]]
+    -  [[windows|win快捷键]]
+    - [[obsidian]]
     - [[markdown statement|markdown]]
-    - [[linux statement|linux]]
-    - [[inspur cluster]]
+    - [[linux statement|linux命令]]
+    - [[inspur cluster|实验室集群]]
     - [[按钮模板]]
 - **快速导航**
-    - [[校历]]
-    - [[40-Research/Home]]
+    - [[40-Research/Home|HOME页]]
     - [[HPE note]]
+    - [[日记快速到达指南]]
 
 - **笔记**
     - `button-daily`

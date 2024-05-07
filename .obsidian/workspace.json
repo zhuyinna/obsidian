@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/说一下transformer.md",
+                "file": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/transformer代码.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/说一下transformer.md"
+                "file": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/transformer代码.md"
               }
             }
           },
@@ -175,11 +175,12 @@
   },
   "active": "d7073f96d0c724a1",
   "lastOpenFiles": [
+    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/说一下transformer.md",
+    "10-Mynote/make_dataview.py",
+    "10-Mynote/日记快速到达指南.md",
     "00-Home/Home.md",
     "10-Mynote/日记/2024-05-07.md",
     "70-Template/Mytemplate/日记模板.md",
-    "10-Mynote/日记快速到达指南.md",
-    "10-Mynote/make_dataview.py",
     "10-Mynote/日记/make_dataview.py",
     "10-Mynote/日记快速达到指南.md",
     "10-Mynote/日记/output.md",
@@ -202,8 +203,6 @@
     "30-Lookup/markdown statement.md",
     "30-Lookup/inspur cluster.md",
     "10-Mynote/事项/学校/校历.md",
-    "10-Mynote/提醒.md",
-    "10-Mynote/事项/党支部/科普活动/20230311/活动流程.md",
     "10-Mynote/事项/学校/访客预约登记用户手册（校内）.pdf",
     "20-Chunzhao/C-CV_Interview/大模型",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/未命名",
