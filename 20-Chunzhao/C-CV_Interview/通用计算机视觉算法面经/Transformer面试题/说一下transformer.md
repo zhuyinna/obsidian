@@ -21,7 +21,7 @@
 
 ![img](https://pic2.zhimg.com/80/v2-5367bd47a2319397317562c0da77e455_1440w.jpg)Transofrmer Decoder 预测
 
-上图 Decoder 接收了 Encoder 的编码矩阵 **C**，然后首先输入一个翻译开始符 "<Begin>"，预测第一个单词 "I"；然后输入翻译开始符 "<Begin>" 和单词 "I"，预测单词 "have"，以此类推。这是 Transformer 使用时候的大致流程，接下来是里面各个部分的细节。
+上图 Decoder 接收了 Encoder 的编码矩阵 **C**，然后首先输入一个翻译开始符 `"<Begin>"`，预测第一个单词 "I"；然后输入翻译开始符` "<Begin>"` 和单词 "I"，预测单词 "have"，以此类推。这是 Transformer 使用时候的大致流程，接下来是里面各个部分的细节。
 
 ## 2. Transformer 的输入
 
