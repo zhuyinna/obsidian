@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/1x1.md",
+                "file": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/常用指标.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/1x1.md"
+                "file": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/常用指标.md"
               }
             }
           },
@@ -187,6 +187,7 @@
   },
   "active": "bb43589fdc63e91d",
   "lastOpenFiles": [
+    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/1x1.md",
     "30-Lookup/markdown statement.md",
     "00-Home/Home.md",
     "30-Lookup/obsidian.md",
@@ -227,7 +228,6 @@
     "70-Template/Mytemplate/日记模板.md",
     "10-Mynote/日记快速达到指南.md",
     "10-Mynote/日记/output.md",
-    "70-Template/Mytemplate/看板模板.md",
     "40-Research/实验/实验/image.png",
     "60-Attachment/Pasted image 20240412180542.png",
     "60-Attachment/Pasted image 20240411154412.png",
