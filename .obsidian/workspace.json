@@ -34,8 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb43589fdc63e91d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/1x1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Home/Home.md"
+                "file": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/1x1.md"
               }
             }
           },
@@ -171,8 +185,11 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "c62e88aeead5e250",
+  "active": "bb43589fdc63e91d",
   "lastOpenFiles": [
+    "30-Lookup/markdown statement.md",
+    "00-Home/Home.md",
+    "30-Lookup/obsidian.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/经典网络模型/009-shuffleNet.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/经典网络模型/008-MobileNet.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/经典网络模型/assets/007-SqueezeNet/image.png",
@@ -202,9 +219,6 @@
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/经典网络模型",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Python面试题/下划线命名.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/batch.md",
-    "30-Lookup/markdown statement.md",
-    "00-Home/Home.md",
-    "30-Lookup/obsidian.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/transformer代码.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/BN_LN区别.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/说一下transformer.md",

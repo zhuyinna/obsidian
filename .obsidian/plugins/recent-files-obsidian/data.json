@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "00-Home/Home.md"
+      "basename": "1x1",
+      "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/1x1.md"
     },
     {
       "basename": "markdown statement",
       "path": "30-Lookup/markdown statement.md"
+    },
+    {
+      "basename": "Home",
+      "path": "00-Home/Home.md"
     },
     {
       "basename": "obsidian",
@@ -35,10 +39,6 @@
     {
       "basename": "日记模板",
       "path": "70-Template/Mytemplate/日记模板.md"
-    },
-    {
-      "basename": "看板模板",
-      "path": "70-Template/Mytemplate/看板模板.md"
     }
   ],
   "omittedPaths": [],
