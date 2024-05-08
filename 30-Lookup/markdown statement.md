@@ -44,64 +44,65 @@ DESC: markdown语句
 ***
 
 ## 2.1 运算符
-| 符号         | 含义           | 语法           | 
-| ------------ | -------------- | -------------- |
-|              | 空格符         | `&nbsp`        |
-| &iquest      | 倒问号         | `&iquest`      |
-| &sect        | 章节符         | `&sect`        |
-| &times       | 乘号           | `&times`       |
-| &divide      | 除号           | `&divide`      |
-| &plusmn      | 加减号         | `&plusmn`      |
-| $\forall$    | 任意           | `$\forall$`    |
-| $\exists$    | 存在           | `$\exists$`    |
-| $\emptyset$  | 空集           | `$\emptyset$ ` |
-| $\in$        | 属于           | `$\in$`        |
-| $\notin$     | 不属于         | `$\notin$`     |
-| $\subset$    | 子集           | `\subset`      |
-| $\subseteq$  | 真子集         | `$\subseteq$`  |
-| $\nabla$     | 梯度           | `$\nabla$`     |
-| $\angle$     | 角             | `$\angle$`     |
-| $\bot$       | 垂直           | `$\bot$`       |
-| $\ge$        | 大于等于       | `$\ge$`        |
-| $\le$        | 小于等于       | `$\le$`        |
-| $\gg$        | 远大于         | `$\gg$`        |
-| $\ll$        | 远小于         | `$\ll$`        |
-| $\approx$    | 约等于         | `$\approx$`    |
-| $\equiv$     | 恒等于         | `$\equiv$ `    |
-| $\neq$       | 不等于         | `$\neq$`       |
-| $\not>$      | 不大于         | `$\not>$`      |
-| $\not<$      | 不小于         | `$\not<$`      |
-| $\because$   | 因为           | `$\because`    |
-| $\therefore$ | 所以           | `$\therefore$` |
-| $\cdot$      | 点积           | `$\cdot$`      |
-| $\cdots$     | 水平省略号     | `$\cdots$`     |
-| $\vdots$     | 竖直省略号     | `$\vdots$`     |
+| 符号           | 含义      | 语法             |
+| ------------ | ------- | -------------- |
+|              | 空格符     | `&nbsp`        |
+| &iquest      | 倒问号     | `&iquest`      |
+| &sect        | 章节符     | `&sect`        |
+| &times       | 乘号      | `&times`       |
+| &divide      | 除号      | `&divide`      |
+| &plusmn      | 加减号     | `&plusmn`      |
+| $\forall$    | 任意      | `$\forall$`    |
+| $\exists$    | 存在      | `$\exists$`    |
+| $\emptyset$  | 空集      | `$\emptyset$ ` |
+| $\in$        | 属于      | `$\in$`        |
+| $\notin$     | 不属于     | `$\notin$`     |
+| $\subset$    | 子集      | `\subset`      |
+| $\subseteq$  | 真子集     | `$\subseteq$`  |
+| $\nabla$     | 梯度      | `$\nabla$`     |
+| $\angle$     | 角       | `$\angle$`     |
+| $\bot$       | 垂直      | `$\bot$`       |
+| $\ge$        | 大于等于    | `$\ge$`        |
+| $\le$        | 小于等于    | `$\le$`        |
+| $\gg$        | 远大于     | `$\gg$`        |
+| $\ll$        | 远小于     | `$\ll$`        |
+| $\approx$    | 约等于     | `$\approx$`    |
+| $\equiv$     | 恒等于     | `$\equiv$ `    |
+| $\neq$       | 不等于     | `$\neq$`       |
+| $\not>$      | 不大于     | `$\not>$`      |
+| $\not<$      | 不小于     | `$\not<$`      |
+| $\because$   | 因为      | `$\because`    |
+| $\therefore$ | 所以      | `$\therefore$` |
+| $\cdot$      | 点积      | `$\cdot$`      |
+| $\cdots$     | 水平省略号   | `$\cdots$`     |
+| $\vdots$     | 竖直省略号   | `$\vdots$`     |
 | $\ddots$     | 斜线方向省略号 | `$\ddots$`     |
 
 ## 2.2 数学符号
-| 符号            | 含义       | 语法              | 
-| --------------- | ---------- | ----------------- |
-| $\hat{y}$       | 期望值     | `$\hat{y}$`       |
-| $\overline{y}$  | 平均值     | `$\overline{y}$`  |
-| $\vec{y}$       | 矢量       | `$\vec{y}$`       |
-| $\widetilde{y}$ | 等价无穷小 | `$\widetilde{y}$` |
-| $\dot{y}$       | 一阶导数   | `$\dot{y}$`       |
-| $\ddot{y}$      | 二阶导数   | `$\ddot{y}$`      |
-|                 |            |                   |
+| 符号                 | 含义    | 语法                   |
+| ------------------ | ----- | -------------------- |
+| $\hat{y}$          | 期望值   | `$\hat{y}$`          |
+| $\overline{y}$     | 平均值   | `$\overline{y}$`     |
+| $\vec{y}$          | 矢量    | `$\vec{y}$`          |
+| $\widetilde{y}$    | 等价无穷小 | `$\widetilde{y}$`    |
+| $\dot{y}$          | 一阶导数  | `$\dot{y}$`          |
+| $\ddot{y}$         | 二阶导数  | `$\ddot{y}$`         |
+| $\widehat{ABCD}$   | 大尖帽   | `$\widehat{ABCD}$`   |
+| $\widetilde{ABCD}$ | 大波浪帽  | `$\widetilde{ABCD}$` |
 
 ## 2.3 箭头
-| 符号              | 含义         | 语法                | 
-| ----------------- | ------------ | ------------------- |
-| $\leftarrow$      | 左箭头       | `$\leftarrow$`      |
-| $\rightarrow$     | 右箭头       | `$\rightarrow$`     |
-| $\uparrow$        | 上箭头       | `$\uparrow$`        |
-| $\downarrow$      | 下箭头       | `$\downarrow$`      |
-| $\leftrightarrow$ | 水平箭头     | `$\leftrightarrow$` |
-| $\updownarrow$    | 竖直箭头     | `$\updownarrow$`    |
-| $\Leftarrow$      | 双线左箭头   | `$\Leftarrow$`      |
-| $\Rightarrow$     | 双线右箭头   | `$\Rightarrow$`     |
-| $\Uparrow$        | 双线上箭头   | `$\Uparrow$ `       |
-| $\Downarrow$      | 双线下箭头   | `$\Downarrow$`      |
+| 符号                | 含义     | 语法                  |
+| ----------------- | ------ | ------------------- |
+| $\leftarrow$      | 左箭头    | `$\leftarrow$`      |
+| $\rightarrow$     | 右箭头    | `$\rightarrow$`     |
+| $\uparrow$        | 上箭头    | `$\uparrow$`        |
+| $\downarrow$      | 下箭头    | `$\downarrow$`      |
+| $\leftrightarrow$ | 水平箭头   | `$\leftrightarrow$` |
+| $\updownarrow$    | 竖直箭头   | `$\updownarrow$`    |
+| $\Leftarrow$      | 双线左箭头  | `$\Leftarrow$`      |
+| $\Rightarrow$     | 双线右箭头  | `$\Rightarrow$`     |
+| $\Uparrow$        | 双线上箭头  | `$\Uparrow$ `       |
+| $\Downarrow$      | 双线下箭头  | `$\Downarrow$`      |
 | $\Leftrightarrow$ | 双线水平箭头 | `$\Leftrightarrow$` |
 | $\Updownarrow$    | 双线垂直箭头 | `$\Updownarrow$`    |
 
@@ -123,14 +124,14 @@ DESC: markdown语句
 
 ## 3.1 文字
 
-| 效果                              | markdown语法                  | 效果                        | markdown语法            |     |
-| --------------------------------- | ----------------------------- | --------------------------- | ----------------------- | --- |
-| ==背景高亮==                      | ==                            | **粗体**                    | `**`                    |     |
-| *斜体*                            | `*` 或者 `_`                  | ~~删除线~~                  | `~~`                    |     |
-| ***加粗斜体***                    | `***`                         | <u>下划线</u>               | `<u> </u>`              |     |
-| 文字<sup>上标</sup>               | `<sup> </sup>`                | 文字<sub>下标</sub>         | `<sub> </sub>`          |     |
-| <font face="黑体">黑体 </font>    | `<font face="黑体"> </font>`  | <font size=5>5号字体</font> | `<font size=5> </font>` |     |
-| <font color=green>绿色字体</font> | `<font color=green> </font> ` |                             |                         |     |
+| 效果                            | markdown语法                    | 效果                       | markdown语法              |
+| ----------------------------- | ----------------------------- | ------------------------ | ----------------------- |
+| ==背景高亮==                      | ==                            | **粗体**                   | `**`                    |
+| *斜体*                          | `*` 或者 `_`                    | ~~删除线~~                  | `~~`                    |
+| ***加粗斜体***                    | `***`                         | <u>下划线</u>               | `<u> </u>`              |
+| 文字<sup>上标</sup>               | `<sup> </sup>`                | 文字<sub>下标</sub>          | `<sub> </sub>`          |
+| <font face="黑体">黑体 </font>    | `<font face="黑体"> </font>`    | <font size=5>5号字体</font> | `<font size=5> </font>` |
+| <font color=green>绿色字体</font> | `<font color=green> </font> ` |                          |                         |
 
 
 ## 3.2 列表
@@ -207,15 +208,15 @@ $$E=mc^2$$
 | ${^1_2}A{^3_4}$ | `{^1_2}A{^3_4}` |
 |                 |               |
 
-| 公式内的括号            |                     |说明     |
-| ----------------------- | ------------------- | --- |
-| ()                      | `()`                  |     |
-| []                      | `[]`                  |     |
-| {}                      | `{}`                  |     |
-| $\langle x \rangle$     | `\langle x \rangle` | 尖括号    |
-| $\lceil x \rceil$       | `\lceil x \rceil`   | 上取整    |
-| $\lfloor x \rfloor$     | `\lfloor x \rfloor` |下取整     |
-| $\left(\frac12 \right)$ | `\left(\frac12 \right)`                    |相较于()，括号经过缩放     |
+| 公式内的括号                  |                         | 说明           |
+| ----------------------- | ----------------------- | ------------ |
+| ()                      | `()`                    |              |
+| []                      | `[]`                    |              |
+| {}                      | `{}`                    |              |
+| $\langle x \rangle$     | `\langle x \rangle`     | 尖括号          |
+| $\lceil x \rceil$       | `\lceil x \rceil`       | 上取整          |
+| $\lfloor x \rfloor$     | `\lfloor x \rfloor`     | 下取整          |
+| $\left(\frac12 \right)$ | `\left(\frac12 \right)` | 相较于()，括号经过缩放 |
 
 | 求和、积分、交并集、累计 |                     |
 | ------------------------ | ------------------- |
