@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30-Lookup/markdown statement.md",
+                "file": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/conv.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30-Lookup/markdown statement.md"
+                "file": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/conv.md"
               }
             }
           },
@@ -188,17 +188,20 @@
   },
   "active": "42e6f0423077293f",
   "lastOpenFiles": [
+    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/1x1.md",
+    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/conv.md",
+    "30-Lookup/markdown statement.md",
+    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/assets/conv/image.png",
+    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/assets/conv",
     "00-Home/Home.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/transformer代码.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/任务类型.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/assets/激活函数/image.png",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/assets/激活函数",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/assets",
-    "30-Lookup/markdown statement.md",
     "30-Lookup/obsidian.md",
     "10-Mynote/日记/2024-05-07.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/常用指标.md",
-    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/1x1.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/经典网络模型/009-shuffleNet.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/经典网络模型/008-MobileNet.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/经典网络模型/assets/007-SqueezeNet/image.png",
@@ -222,18 +225,15 @@
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/经典网络模型/003-ZFNet.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/经典网络模型/002-AlexNet.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/经典网络模型/002-AlexNet.py",
-    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/经典网络模型/002-AlexNet",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/经典网络模型/001-LeNet.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Python面试题/下划线命名.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/batch.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/BN_LN区别.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/说一下transformer.md",
     "10-Mynote/日记快速到达指南.md",
-    "70-Template/Mytemplate/日记模板.md",
     "40-Research/实验/实验/image.png",
     "60-Attachment/Pasted image 20240412180542.png",
     "60-Attachment/Pasted image 20240411154412.png",
-    "60-Attachment/Pasted image 20240402184428.png",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
