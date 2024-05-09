@@ -47,9 +47,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "298c97bc28124dd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/图像分割面试题/DeepLab.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/conv.md"
+                "file": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/图像分割面试题/DeepLab.md"
               }
             }
           },
@@ -163,8 +176,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,16 +198,17 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "42e6f0423077293f",
+  "active": "298c97bc28124dd4",
   "lastOpenFiles": [
+    "30-Lookup/markdown statement.md",
+    "00-Home/Home.md",
+    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/conv.md",
+    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/图像分割面试题/CRF条件随机场.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/assets/resnet/screencapture-mp-weixin-qq-s-2024-05-08-18_13_32.png",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/assets/resnet",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/1x1.md",
-    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/conv.md",
-    "30-Lookup/markdown statement.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/assets/conv/image.png",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/assets/conv",
-    "00-Home/Home.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/transformer代码.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/任务类型.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/assets/激活函数/image.png",
@@ -233,7 +246,6 @@
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/说一下transformer.md",
     "40-Research/实验/实验/image.png",
     "60-Attachment/Pasted image 20240412180542.png",
-    "60-Attachment/Pasted image 20240411154412.png",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",

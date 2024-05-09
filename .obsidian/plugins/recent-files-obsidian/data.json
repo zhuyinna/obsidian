@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "conv",
-      "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/conv.md"
-    },
-    {
-      "basename": "1x1",
-      "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/1x1.md"
+      "basename": "DeepLab",
+      "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/图像分割面试题/DeepLab.md"
     },
     {
       "basename": "markdown statement",
@@ -15,6 +11,14 @@
     {
       "basename": "Home",
       "path": "00-Home/Home.md"
+    },
+    {
+      "basename": "conv",
+      "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/conv.md"
+    },
+    {
+      "basename": "1x1",
+      "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/1x1.md"
     },
     {
       "basename": "transformer代码",
@@ -35,10 +39,6 @@
     {
       "basename": "说一下transformer",
       "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/说一下transformer.md"
-    },
-    {
-      "basename": "make_dataview",
-      "path": "10-Mynote/make_dataview.py"
     }
   ],
   "omittedPaths": [],
