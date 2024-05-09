@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "说一下transformer",
+      "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/说一下transformer.md"
+    },
+    {
       "basename": "DeepLab",
       "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/图像分割面试题/DeepLab.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "常用指标",
       "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/常用指标.md"
-    },
-    {
-      "basename": "说一下transformer",
-      "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/说一下transformer.md"
     }
   ],
   "omittedPaths": [],
