@@ -183,6 +183,21 @@ git fetch upstream
 git merge upstream/main
 ```
 
+3. 删除已经提交但是需要被ignore的文件/文件夹
+```bash
+# 首先要配置到.gitignore里
+# 接着执行
+git rm --cached -r .  
+git add .
+git commit -am '注释'
+```
+最后可以进行接下来的add, commit, push
+
+4. fetch和pull区别
+<img src=https://s2.loli.net/2024/05/10/vUh4x8zEBn9Qolq.png width='100%'>
+可以看到，`git fetch`是将远程主机的最新内容拉到本地，用户在检查了以后决定是否合并到工作本机分支中
+
+而`git pull` 则是将远程主机的最新内容拉下来后直接合并，即：`git pull = git fetch + git merge`，这样可能会产生冲突，需要手动解决
 
 ## 四、错误汇总
 

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "linux statement",
+      "path": "30-Lookup/linux statement.md"
+    },
+    {
+      "basename": "Home",
+      "path": "00-Home/Home.md"
+    },
+    {
       "basename": "00-准备@chatgpt",
       "path": "20-Chunzhao/00-准备@chatgpt.md"
     },
@@ -17,10 +25,6 @@
       "path": "30-Lookup/markdown statement.md"
     },
     {
-      "basename": "Home",
-      "path": "00-Home/Home.md"
-    },
-    {
       "basename": "conv",
       "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/conv.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "obsidian",
       "path": "30-Lookup/obsidian.md"
-    },
-    {
-      "basename": "2024-05-07",
-      "path": "10-Mynote/日记/2024-05-07.md"
     }
   ],
   "omittedPaths": [],
