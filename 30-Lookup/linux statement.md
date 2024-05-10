@@ -296,7 +296,23 @@ unzip:  cannot find zipfile directory in one of ckpt-20230314T012919Z-002.zip or
     - tmux at -t demo
     - 杀死 session  , tmux kill-session -t demo
 
+# SCP
+1. 从本地复制到远程
+```
+scp local_file remote_username@remote_ip:remote_folder 
+scp local_file remote_username@remote_ip:remote_file 
+scp local_file remote_ip:remote_folder 
+scp local_file remote_ip:remote_file 
+```
 
+2. 从远程复制到本地
+```
+scp root@www.runoob.com:/home/root/others/music /home/space/music/1.mp3 
+scp -r www.runoob.com:/home/root/others/ /home/space/music/
+```
 
+举例：
+上传到实验室服务器
+`scp /root/autodl-fs/output.tar.gz ynzhu@10.134.142.143:~/workspace/VCLD/outputs/CFLD/debug`
 
 tags: #LUT
