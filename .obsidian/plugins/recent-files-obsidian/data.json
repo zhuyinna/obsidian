@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "00-准备@chatgpt",
+      "path": "20-Chunzhao/00-准备@chatgpt.md"
+    },
+    {
       "basename": "说一下transformer",
       "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/说一下transformer.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "2024-05-07",
       "path": "10-Mynote/日记/2024-05-07.md"
-    },
-    {
-      "basename": "常用指标",
-      "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/常用指标.md"
     }
   ],
   "omittedPaths": [],

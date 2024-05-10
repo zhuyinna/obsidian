@@ -13,3 +13,6 @@
 	- 问一下应涵倩学姐，项目进展
 - linux开发
 	- 在linux系统上开发一个应用
+
+## leetcode刷题7周
+![[Pasted image 20240510101224.png]]

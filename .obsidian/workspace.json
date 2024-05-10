@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/说一下transformer.md",
+                "file": "20-Chunzhao/00-准备@chatgpt.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/说一下transformer.md"
+                "file": "20-Chunzhao/00-准备@chatgpt.md"
               }
             }
           },
@@ -200,6 +200,8 @@
   },
   "active": "298c97bc28124dd4",
   "lastOpenFiles": [
+    "60-Attachment/Pasted image 20240510101224.png",
+    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/说一下transformer.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/经典网络模型/013-Transformer-XL.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/图像分割面试题/DeepLab.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/经典网络模型/012-BERT.md",
@@ -241,9 +243,7 @@
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/经典网络模型/ResNet.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/经典网络模型/assets/GoogNet/image.png",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/经典网络模型/assets/GoogNet",
-    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/经典网络模型/GoogNet.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/经典网络模型/assets/004-VGGNet/image.png",
-    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/经典网络模型/004-VGGNet.md",
     "40-Research/实验/实验/image.png",
     "60-Attachment/Pasted image 20240412180542.png",
     "未命名.canvas",
