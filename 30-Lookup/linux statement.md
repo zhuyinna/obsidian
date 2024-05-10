@@ -4,28 +4,32 @@ DESC: linux命令语句
 
 # 基本语句
 ---
+**基本命令**
 
-| 操作 | 命令 |
-| ---- | ---- |
-| 修改文件/文件夹名称 | `mv file1 file2` |
-| 解压/压缩 .tar.gz | `tar -zxvf filename.tar.gz` |
-| 解压/压缩 .zip | `unzip FileName.zip;  zip FileName.zip DirName` |
-| 筛选相关文件（例如扩展名为. tar） | `ls \| grep tar` |
-| CUDA 版本 | `ncvv --version` |
-| pytorch 版本 | ` python -c 'import torch; print (torch.__version__)' ` |
-| 查看历史命令 | ` history [n] ` |
-| 测试网络连接 | `curl -v  ` |
-| 检查网络连接 | `ping  www.baidu.com` |
-| 检查指定 ip 是否开放指定端口 | `telnet://github.com: 443` or  `telnet www.baidu.com 80` |
-| 删除指定后缀 | `find . -name "*.png" \|xargs rm -rf` |
-| 统计行数 | `find /path/to/your/directory -type f \| wc -l` |
-|  |  |
-```ad-note
-cuda 版本：11.7
-```
+| 操作               | 命令                                                           |
+| ---------------- | ------------------------------------------------------------ |
+| 修改文件/文件夹名称       | `mv file1 file2`                                             |
+| 解压/压缩 .tar.gz    | `tar -zxvf filename.tar.gz`                                  |
+| 解压/压缩 .zip       | `unzip FileName.zip;  zip FileName.zip DirName`              |
+| 筛选相关文件           | `ls \| grep tar`                                             |
+| CUDA 版本          | `ncvv --version`                                             |
+| pytorch 版本       | `python -c 'import torch;` <br>`print (torch.__version__)' ` |
+| 查看历史命令           | ` history [n] `                                              |
+| 测试网络连接           | `curl -v  `                                                  |
+| 检查网络连接           | `ping  www.baidu.com`                                        |
+| 检查指定 ip 是否开放指定端口 | `telnet://github.com: 443` or  `telnet www.baidu.com 80`     |
+| 删除指定后缀           | `find . -name "*.png" \|xargs rm -rf`                        |
+| 统计行数             | `find /path/to/your/directory -type f \| wc -l`              |
+
+**特殊操作**
+1. 重置密码
+![[Pasted image 20230409133146.png]]
+
+
 
 # Conda
 ***
+**基本命令**
 
 | 操作   | 命令                                        |
 | ---- | ----------------------------------------- |
@@ -39,6 +43,8 @@ cuda 版本：11.7
 | 安装包  | `conda install package_name`              |
 | 列出包  | `conda list `                             |
 |      |                                           |
+**特殊命令**
+
 1. 查看源
 `conda config --show-sources`
 2. 换回原默认源
@@ -69,12 +75,12 @@ conda config --add channels https://mirrors.bfsu.edu.cn/anaconda/cloud/bioconda/
 
 11. 清除condarc
 `conda config --remove-key channels`
+   
 # pip
 1. upgrade
 `python3 -m pip install --upgrade pip`
 
 # CUDA
-## 查看版本
 1. 查看 torch 版本和 cuda 版本是否一致
 ```python
 import torch
@@ -85,36 +91,10 @@ print(torch.cuda.is_available())
 
 
 
-# 进程管理
-
-| 命令                   | 操作                          |
-| -------------------- | --------------------------- |
-| `ctrl+Z`             | 前台进程：挂起                     |
-| `stop %num `         | 后台进程：挂起                     |
-| `ctrl+C`             | 前台进程：终止                     |
-| `kill %num [or PID]` | 后台进程：终止                     |
-| `jobs`               | 查看 jobs，+表示当前，-表示是当前作业之后的作业 |
-| `jobs -l`            | 查看 PID                      |
-
 
 # git
 ***
-## 一、概念
-
-1.工作区
-	电脑能看到的目录
-2.暂存区
-	stage或index。`.git` 目录下的index文件中
-3.版本库
-	隐藏目录`.git` 
-4.其他
-	忽略特殊文件：
-		作用：某些文件需要放到工作目录，但是又不能提交（例如一些密码文件），每次`git status`都会显示`untracked files`
-		解决：工作区根目录创建`.gitignore`文件，把要忽略的文件名写进去
-
-![[Pasted image 20230217205804.png|350]]
-
-## 二、语句
+**常用语句**
 
 1.创建仓库
 
@@ -166,8 +146,16 @@ print(torch.cuda.is_available())
 	情况二、误删，从版本库里恢复到本地
 	`git checkout -- filename`
 
+6. git pull指定文件夹
+设置`$ git config core.sparsecheckout true`为true
+- `core.sparsecheckout`用于控制是否允许设置pull指定文件/夹，true为允许。
+- 此方法适用于 Git1.7.0 以后版本，之前的版本没有这个功能
+在`.git/info/sparse-checkout`文件中（如果没有则创建）添加指定的文件/夹
+最后，拉取想要的分支即可实现checkout指定文件/夹
+`  $ git pull origin master`
 
-## 三、其他功能
+
+**特殊用法**
 
 1. 将本地代码上传到 github
 ```
@@ -199,7 +187,7 @@ git commit -am '注释'
 
 而`git pull` 则是将远程主机的最新内容拉下来后直接合并，即：`git pull = git fetch + git merge`，这样可能会产生冲突，需要手动解决
 
-## 四、错误汇总
+**错误汇总**
 
 
 ```ad-error
@@ -235,12 +223,19 @@ unzip:  cannot find zipfile directory in one of ckpt-20230314T012919Z-002.zip or
 
 方法：安装 7zip
 
+```ad-error
+“fatal: refusing to merge unrelated histories” -(git-github)
+```
+`git pull origin main --allow-unrelated-histories`
+
+
 
 # .bashrc 修改
 
-## 文件
+**文件**
 
 在linux系统普通用户目录（cd /home/xxx）或root用户目录（cd /root）下，用指令ls -al可以看到4个隐藏文件，
+
 | 文件          | 用途                                        |
 | ------------- | ------------------------------------------- |
 | .bash_history | 记录之前输入的命令                          |
@@ -248,7 +243,7 @@ unzip:  cannot find zipfile directory in one of ckpt-20230314T012919Z-002.zip or
 | .bash_profile | 登入 shell 时执行：只在会话开始读取一次     |
 | **.bashrc**       | **登入 shell 时执行：每次打开新的终端都会读取** | 
 
-## PATH
+**PATH路径修改**
 
 1. 作用
      PATH 变量决定了 shell 将到哪些目录中寻找命令或程序
@@ -268,19 +263,23 @@ unzip:  cannot find zipfile directory in one of ckpt-20230314T012919Z-002.zip or
     将 (2) 添加到 `~/.bashrc` 中
 
 
-## alias 别名
+**alias 别名**
 写在. bashrc 中
 `alias rm='rm -i'`
 
-## 生效
+**最后需要运行命令生效**
 `$source ~/.bashrc`
 
+# 进程管理
 
-# 重置密码
-![[Pasted image 20230409133146.png]]
-
-
-# 后台运行程序
+| 命令                   | 操作                          |
+| -------------------- | --------------------------- |
+| `ctrl+Z`             | 前台进程：挂起                     |
+| `stop %num `         | 后台进程：挂起                     |
+| `ctrl+C`             | 前台进程：终止                     |
+| `kill %num [or PID]` | 后台进程：终止                     |
+| `jobs`               | 查看 jobs，+表示当前，-表示是当前作业之后的作业 |
+| `jobs -l`            | 查看 PID                      |
 
 1. &
     以& 结尾   run.sh &，缺点是退出终端就退出执行
@@ -297,15 +296,6 @@ unzip:  cannot find zipfile directory in one of ckpt-20230314T012919Z-002.zip or
     - tmux at -t demo
     - 杀死 session  , tmux kill-session -t demo
 
-
-# Pycharm
-
-## SSH
-
-1. 配置 ssh
-     ![[Pasted image 20230602103016.png]]
-2. 打开远程目录
-     ![[Pasted image 20230602103052.png]]
 
 
 
