@@ -22,5 +22,6 @@
         // "？": "?",
         "·": "`",
         "—": "_"
-    }
+    },
+    "markdown.extension.toc.plaintext": true
 }
