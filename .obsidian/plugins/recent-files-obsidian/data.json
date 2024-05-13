@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "02-面经题目整理",
+      "path": "20-Chunzhao/02-面经题目整理.md"
+    },
+    {
+      "basename": "B-01-经典题目思路归纳",
+      "path": "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md"
+    },
+    {
+      "basename": "B-02-C++处理输入输出",
+      "path": "20-Chunzhao/B-leetcode/B-02-C++处理输入输出.md"
+    },
+    {
       "basename": "B-03-C++STL",
       "path": "20-Chunzhao/B-leetcode/B-03-C++STL.md"
     },
@@ -27,18 +39,6 @@
     {
       "basename": "markdown statement",
       "path": "30-Lookup/markdown statement.md"
-    },
-    {
-      "basename": "conv",
-      "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/conv.md"
-    },
-    {
-      "basename": "1x1",
-      "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/1x1.md"
-    },
-    {
-      "basename": "transformer代码",
-      "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/transformer代码.md"
     }
   ],
   "omittedPaths": [],
