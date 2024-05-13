@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/说一下transformer.md",
+                "file": "20-Chunzhao/B-leetcode/B-03-C++STL.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/说一下transformer.md"
+                "file": "20-Chunzhao/B-leetcode/B-03-C++STL.md"
               }
             }
           },
@@ -226,6 +226,7 @@
   },
   "active": "0848dde72c0b8a9c",
   "lastOpenFiles": [
+    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/说一下transformer.md",
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/高频面试题分类总结/每日一题.md",
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/高频面试题分类总结/总结.md",
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/高频面试题分类总结",
@@ -244,7 +245,6 @@
     "00-Home/Home.md",
     "20-Chunzhao/00-准备@chatgpt.md",
     "60-Attachment/Pasted image 20240510101224.png",
-    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/说一下transformer.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/经典网络模型/013-Transformer-XL.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/图像分割面试题/DeepLab.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/经典网络模型/012-BERT.md",

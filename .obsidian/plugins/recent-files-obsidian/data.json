@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "B-03-C++STL",
+      "path": "20-Chunzhao/B-leetcode/B-03-C++STL.md"
+    },
+    {
       "basename": "说一下transformer",
       "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/说一下transformer.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "transformer代码",
       "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/transformer代码.md"
-    },
-    {
-      "basename": "obsidian",
-      "path": "30-Lookup/obsidian.md"
     }
   ],
   "omittedPaths": [],

@@ -141,7 +141,7 @@ mapStudent.erase(mapStudent.begin(), mapStudent.end());
 `lower_bound()`：返回键值>=给定元素的第一个位置
 `upper_bound()`：返回键值>给定元素的第一个位置
 
-## 优先级队列
+## priority_queue优先级队列
 
 ### 实现堆排序
 自定义比较函数：注意和vector是相反的
@@ -168,6 +168,35 @@ void t_prique(){
 
 ```
 
+## list
+1. 添加元素
+- 头部添加元素：`lst.push_front(const T& x);`
+- 末尾添加元素：`lst.push_back(const T& x);`
+- 任意位置插入一个元素：`lst.insert(iterator it, const T& x);`
+- 任意位置插入 n 个相同元素：`lst.insert(iterator it, int n, const T& x);`
+- 插入另一个向量的 [forst,last] 间的数据：`lst.insert(iterator it, iterator first, iterator last);`
+2. 删除元素
+- 头部删除元素：`lst.pop_front();`
+- 末尾删除元素：`lst.pop_back();`
+- 任意位置删除一个元素：`lst.erase(iterator it);`
+- 删除 [first,last] 之间的元素：`lst.erase(iterator first, iterator last);`
+- 清空所有元素：`lst.clear();`
+3. 访问元素
+- 访问第一个元素：`lst.front();`
+- 访问最后一个元素：`lst.back();`
+4. 其他函数
+- 多个元素赋值：`lst.assign(int nSize, const T& x); // 类似于初始化时用数组进行赋值`
+- 交换两个同类型容器的元素：`swap(list&, list&); 或 lst.swap(list&);`
+- 合并两个列表的元素（默认升序排列）：`lst.merge();`
+- 在任意位置拼接入另一个list：`lst.splice(iterator it, list&);`
+- 删除容器中相邻的重复元素：`lst.unique();`
+5. 迭代器指针
+- 开始迭代器指针：`lst.begin();`
+- 末尾迭代器指针：`lst.end();` // 指向最后一个元素的下一个位置
+- 指向常量的开始迭代器指针：`lst.cbegin();` // 意思就是不能通过这个指针来修改所指的内容，但还是可以通过其他方式修改的，而且指针也是可以移动的。
+- 指向常量的末尾迭代器指针：`lst.cend();`
+- 反向迭代器指针，指向最后一个元素：`lst.rbegin();`
+- 反向迭代器指针，指向第一个元素的前一个元素：`lst.rend();`
 # 头文件
 ## `#inluce<algorithm>`
 
