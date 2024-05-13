@@ -23,5 +23,6 @@
         "·": "`",
         "—": "_"
     },
-    "markdown.extension.toc.plaintext": true
+    "markdown.extension.toc.plaintext": true,
+    "editor.fontFamily": "Monaco"
 }
