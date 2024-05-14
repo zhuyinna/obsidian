@@ -99,9 +99,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d1baf7d981b1348f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30-Lookup/linux statement.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b1781fed7dc1c01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30-Lookup/markdown statement.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -175,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30-Lookup/linux statement.md"
+                "file": "30-Lookup/markdown statement.md"
               }
             }
           },
@@ -237,9 +263,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "d2e7481715c1dea2",
+  "active": "9b1781fed7dc1c01",
   "lastOpenFiles": [
     "00-Home/Home.md",
+    "30-Lookup/linux statement.md",
     "20-Chunzhao/02-面经题目整理.md",
     "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md",
     "20-Chunzhao/B-leetcode/B-02-C++处理输入输出.md",
@@ -248,7 +275,6 @@
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/高频面试题分类总结/每日一题.md",
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/高频面试题分类总结/总结.md",
     "20-Chunzhao/C-CV_Interview/LeetCode-Book/高频面试题分类总结",
-    "30-Lookup/linux statement.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/经典网络模型/101-BERT_GPT.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/经典网络模型/assets/301-Unet变体/image.png",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/经典网络模型/assets/301-Unet变体",
