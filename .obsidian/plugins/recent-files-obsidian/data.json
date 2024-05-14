@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "linux statement",
+      "path": "30-Lookup/linux statement.md"
+    },
+    {
+      "basename": "Home",
+      "path": "00-Home/Home.md"
+    },
+    {
       "basename": "02-面经题目整理",
       "path": "20-Chunzhao/02-面经题目整理.md"
     },
@@ -19,14 +27,6 @@
     {
       "basename": "说一下transformer",
       "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/说一下transformer.md"
-    },
-    {
-      "basename": "linux statement",
-      "path": "30-Lookup/linux statement.md"
-    },
-    {
-      "basename": "Home",
-      "path": "00-Home/Home.md"
     },
     {
       "basename": "00-准备@chatgpt",

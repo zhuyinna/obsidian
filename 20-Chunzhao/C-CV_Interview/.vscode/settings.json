@@ -23,6 +23,8 @@
         "·": "`",
         "—": "_"
     },
-    "markdown.extension.toc.plaintext": true,
-    "editor.fontFamily": "Monaco"
+    "markdown.extension.toc.plaintext": false,
+    "editor.fontFamily": "Monaco",
+    "markdown.extension.completion.enabled": true,
+    "markdown.extension.preview.autoShowPreviewToSide": true
 }
