@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "B-04-数据结构",
+      "path": "20-Chunzhao/B-leetcode/B-04-数据结构.md"
+    },
+    {
       "basename": "B-03-C++STL",
       "path": "20-Chunzhao/B-leetcode/B-03-C++STL.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "B-01-经典题目思路归纳",
       "path": "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md"
-    },
-    {
-      "basename": "B-02-C++处理输入输出",
-      "path": "20-Chunzhao/B-leetcode/B-02-C++处理输入输出.md"
     }
   ],
   "omittedPaths": [],
