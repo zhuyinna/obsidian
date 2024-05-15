@@ -280,6 +280,49 @@ std::isunordered:检测两个浮点数是否是无序的.
 ```
 
 
+# 数据处理函数
 
+## map & reduce & filter
+
+map 函数是对容器中的所有元素进行一对一映射，将原有的数据经过一个函数的计算后得到一个新的数据。
+
+reduce 函数是对容器中的所有元素进行二元操作，得到单个的结果值。
+用法如下：
+T ****reduce****(ExecutionPolicy&& __policy__, ForwardIt __first__, ForwardIt __last__, T __init__, BinaryOp __op__);
+
+```cpp
+// C++ program to illustrate the use of reduce() function 
+#include <iostream> 
+#include <numeric> 
+#include <vector> 
+
+using namespace std; 
+
+int main() 
+{ 
+	vector<int> v = { 1, 3, 4, 5 }; 
+
+	// reduce returns sum of the elements in the given range 
+	int sum = reduce(v.begin(), v.end(), 0); 
+	cout << "Default execution of the reduce function: "
+		<< sum << endl; 
+
+	// here it returns the sum without needing to pass the 
+	// intial value 
+	sum = reduce(v.begin(), v.end()); 
+	cout << "Excecution with default intial value: " << sum 
+		<< endl; 
+}
+
+```
+
+```
+Default execution of the reduce function: 13  
+Excecution with default intial value: 13
+```
+
+filter 函数是对容器中的所有元素进行筛选，仅保留符合条件的元素，得到一个新的容器。
+
+这三种函数均可在 STL 中的各种容器上使用，例如 vector、list 等。
 # 循环
 1.  for_each： `for_each(v.begin(), v.end(), print);`
