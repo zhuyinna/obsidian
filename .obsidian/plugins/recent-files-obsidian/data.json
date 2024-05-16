@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "02-面经题目整理",
+      "path": "20-Chunzhao/02-面经题目整理.md"
+    },
+    {
+      "basename": "linux statement",
+      "path": "30-Lookup/linux statement.md"
+    },
+    {
       "basename": "2024-05-16",
       "path": "10-Mynote/日记/2024-05-16.md"
     },
@@ -17,10 +25,6 @@
       "path": "10-Mynote/日记/2024-05-14.md"
     },
     {
-      "basename": "linux statement",
-      "path": "30-Lookup/linux statement.md"
-    },
-    {
       "basename": "日记模板",
       "path": "70-Template/Mytemplate/日记模板.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "Home",
       "path": "00-Home/Home.md"
-    },
-    {
-      "basename": "02-面经题目整理",
-      "path": "20-Chunzhao/02-面经题目整理.md"
     }
   ],
   "omittedPaths": [],

@@ -93,20 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30-Lookup/linux statement.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1baf7d981b1348f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10-Mynote/日记/2024-05-16.md",
+                "file": "20-Chunzhao/02-面经题目整理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -188,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-Mynote/日记/2024-05-16.md"
+                "file": "20-Chunzhao/02-面经题目整理.md"
               }
             }
           },
@@ -251,16 +238,16 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "d1baf7d981b1348f",
+  "active": "d2e7481715c1dea2",
   "lastOpenFiles": [
+    "30-Lookup/linux statement.md",
+    "10-Mynote/日记/2024-05-16.md",
     "60-Attachment/Pasted image 20240516131855.png",
     "60-Attachment/Pasted image 20240516131839.png",
     "20-Chunzhao/B-leetcode/B-04-数据结构.md",
-    "10-Mynote/日记/2024-05-16.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/生成式模型/assets/LCM源码解读/image-22.png",
     "20-Chunzhao/B-leetcode/B-03-C++STL.md",
     "10-Mynote/日记/2024-05-14.md",
-    "30-Lookup/linux statement.md",
     "70-Template/Mytemplate/日记模板.md",
     "10-Mynote/日记/2024-05-07.md",
     "30-Lookup/markdown statement.md",
@@ -271,7 +258,6 @@
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/生成式模型/assets/LCM源码解读/image-17.png",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/生成式模型/assets/LCM源码解读/image-16.png",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/生成式模型/assets/LCM源码解读/image-15.png",
-    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/生成式模型/assets/LCM源码解读/image-14.png",
     "00-Home/Home.md",
     "20-Chunzhao/02-面经题目整理.md",
     "20-Chunzhao/B-leetcode/B-01-经典题目思路归纳.md",
