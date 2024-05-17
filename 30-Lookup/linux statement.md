@@ -313,6 +313,6 @@ scp -r www.runoob.com:/home/root/others/ /home/space/music/
 
 举例：
 上传到实验室服务器
-`scp -P 6081 /root/autodl-fs/output.tar.gz ynzhu@10.134.142.143:~/workspace/VCLD/outputs/CFLD/debug`
+`scp -P 6801 /root/autodl-fs/output.tar.gz ynzhu@10.134.142.143:~/workspace/VCLD/outputs/CFLD/debug`
 
 tags: #LUT

@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "00-Home/Home.md"
+    },
+    {
+      "basename": "transformer代码",
+      "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/transformer代码.md"
+    },
+    {
+      "basename": "conv",
+      "path": "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/conv.md"
+    },
+    {
+      "basename": "00-准备@chatgpt",
+      "path": "20-Chunzhao/00-准备@chatgpt.md"
+    },
+    {
+      "basename": "linux statement",
+      "path": "30-Lookup/linux statement.md"
+    },
+    {
+      "basename": "02-面经题目整理",
+      "path": "20-Chunzhao/02-面经题目整理.md"
+    },
+    {
       "basename": "01-自我介绍",
       "path": "20-Chunzhao/01-自我介绍.md"
     },
@@ -9,36 +33,12 @@
       "path": "30-Lookup/markdown statement.md"
     },
     {
-      "basename": "Home",
-      "path": "00-Home/Home.md"
-    },
-    {
-      "basename": "02-面经题目整理",
-      "path": "20-Chunzhao/02-面经题目整理.md"
-    },
-    {
-      "basename": "linux statement",
-      "path": "30-Lookup/linux statement.md"
-    },
-    {
       "basename": "2024-05-16",
       "path": "10-Mynote/日记/2024-05-16.md"
     },
     {
       "basename": "B-04-数据结构",
       "path": "20-Chunzhao/B-leetcode/B-04-数据结构.md"
-    },
-    {
-      "basename": "B-03-C++STL",
-      "path": "20-Chunzhao/B-leetcode/B-03-C++STL.md"
-    },
-    {
-      "basename": "2024-05-14",
-      "path": "10-Mynote/日记/2024-05-14.md"
-    },
-    {
-      "basename": "日记模板",
-      "path": "70-Template/Mytemplate/日记模板.md"
     }
   ],
   "omittedPaths": [],
