@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "00-Home/Home.md"
+    },
+    {
       "basename": "02-面经题目整理",
       "path": "20-Chunzhao/02-面经题目整理.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "markdown statement",
       "path": "30-Lookup/markdown statement.md"
-    },
-    {
-      "basename": "Home",
-      "path": "00-Home/Home.md"
     }
   ],
   "omittedPaths": [],
