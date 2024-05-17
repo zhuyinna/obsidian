@@ -106,7 +106,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30-Lookup/markdown statement.md",
+                "file": "20-Chunzhao/01-自我介绍.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30-Lookup/markdown statement.md"
+                "file": "20-Chunzhao/01-自我介绍.md"
               }
             }
           },
@@ -252,6 +252,7 @@
   },
   "active": "7e18d097e508c864",
   "lastOpenFiles": [
+    "30-Lookup/markdown statement.md",
     "00-Home/Home.md",
     "20-Chunzhao/C-CV_Interview/大厂面试原题/蔚来面试题汇总.md",
     "20-Chunzhao/C-CV_Interview/大厂面试原题/Aibee.md",
@@ -276,7 +277,6 @@
     "10-Mynote/日记/2024-05-14.md",
     "70-Template/Mytemplate/日记模板.md",
     "10-Mynote/日记/2024-05-07.md",
-    "30-Lookup/markdown statement.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/生成式模型/assets/LCM源码解读/image-21.png",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/生成式模型/assets/LCM源码解读/image-20.png",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/生成式模型/assets/LCM源码解读/image-19.png",
