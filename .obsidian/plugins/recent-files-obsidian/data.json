@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "非root安装",
+      "path": "30-Lookup/非root安装.md"
+    },
+    {
       "basename": "Home",
       "path": "00-Home/Home.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "2024-05-16",
       "path": "10-Mynote/日记/2024-05-16.md"
-    },
-    {
-      "basename": "B-04-数据结构",
-      "path": "20-Chunzhao/B-leetcode/B-04-数据结构.md"
     }
   ],
   "omittedPaths": [],

@@ -11,8 +11,13 @@
             "id": "9d234820c142639f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "30-Lookup/非root安装.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -88,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "30-Lookup/非root安装.md"
+              }
             }
           },
           {
@@ -151,6 +158,7 @@
   },
   "active": "9d234820c142639f",
   "lastOpenFiles": [
+    "30-Lookup/非root安装.md",
     "00-Home/Home.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/transformer代码.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/conv.md",
@@ -177,7 +185,6 @@
     "20-Chunzhao/C-CV_Interview/大厂面试原题/滴滴面试题汇总.md",
     "20-Chunzhao/C-CV_Interview/大厂面试原题/阿里面试题汇总.md",
     "20-Chunzhao/C-CV_Interview/大厂面试原题/字节/字节面试题汇总.md",
-    "20-Chunzhao/C-CV_Interview/大厂面试原题/字节/字节mian'shi't.md",
     "20-Chunzhao/C-CV_Interview/大厂面试原题/滴滴",
     "60-Attachment/Pasted image 20240516131855.png",
     "60-Attachment/Pasted image 20240516131839.png",
