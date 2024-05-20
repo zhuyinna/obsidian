@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "非root安装",
-      "path": "30-Lookup/非root安装.md"
+      "basename": "capture",
+      "path": "10-Mynote/日记/000-capture/capture.md"
     },
     {
       "basename": "Home",
       "path": "00-Home/Home.md"
+    },
+    {
+      "basename": "2024-05-20",
+      "path": "10-Mynote/日记/2024-05-20.md"
+    },
+    {
+      "basename": "非root安装",
+      "path": "30-Lookup/非root安装.md"
     },
     {
       "basename": "transformer代码",
@@ -31,14 +39,6 @@
     {
       "basename": "01-自我介绍",
       "path": "20-Chunzhao/01-自我介绍.md"
-    },
-    {
-      "basename": "markdown statement",
-      "path": "30-Lookup/markdown statement.md"
-    },
-    {
-      "basename": "2024-05-16",
-      "path": "10-Mynote/日记/2024-05-16.md"
     }
   ],
   "omittedPaths": [],
