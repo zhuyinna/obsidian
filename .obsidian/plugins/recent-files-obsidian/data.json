@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "capture",
-      "path": "10-Mynote/日记/000-capture/capture.md"
+      "basename": "地平线面试题汇总",
+      "path": "20-Chunzhao/C-CV_Interview/面试原题/地平线面试题汇总.md"
     },
     {
       "basename": "Home",
       "path": "00-Home/Home.md"
+    },
+    {
+      "basename": "capture",
+      "path": "10-Mynote/日记/000-capture/capture.md"
     },
     {
       "basename": "2024-05-20",
@@ -35,10 +39,6 @@
     {
       "basename": "02-面经题目整理",
       "path": "20-Chunzhao/02-面经题目整理.md"
-    },
-    {
-      "basename": "01-自我介绍",
-      "path": "20-Chunzhao/01-自我介绍.md"
     }
   ],
   "omittedPaths": [],

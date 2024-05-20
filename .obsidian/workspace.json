@@ -23,25 +23,12 @@
             }
           },
           {
-            "id": "23e3d89ce3956774",
+            "id": "52aeeabc357ea8fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-Mynote/日记/000-capture/capture.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "063747cf47355910",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10-Mynote/日记/000-capture/capture.md",
+                "file": "20-Chunzhao/C-CV_Interview/面试原题/地平线面试题汇总.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -123,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-Mynote/日记/000-capture/capture.md"
+                "file": "20-Chunzhao/C-CV_Interview/面试原题/地平线面试题汇总.md"
               }
             }
           },
@@ -185,9 +172,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "23e3d89ce3956774",
+  "active": "52aeeabc357ea8fe",
   "lastOpenFiles": [
     "00-Home/Home.md",
+    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/C++面经题/hash.md",
     "10-Mynote/日记/000-capture/capture.md",
     "10-Mynote/日记/2024-05-20.md",
     "30-Lookup/非root安装.md",
@@ -213,7 +201,6 @@
     "20-Chunzhao/C-CV_Interview/大厂面试原题/字节面试题汇总.md",
     "20-Chunzhao/C-CV_Interview/大厂面试原题/网易面试题汇总.md",
     "20-Chunzhao/C-CV_Interview/大厂面试原题/腾讯面试题.md",
-    "20-Chunzhao/C-CV_Interview/大厂面试原题/滴滴面试题汇总.md",
     "20-Chunzhao/C-CV_Interview/大厂面试原题/滴滴",
     "60-Attachment/Pasted image 20240516131855.png",
     "60-Attachment/Pasted image 20240516131839.png",
