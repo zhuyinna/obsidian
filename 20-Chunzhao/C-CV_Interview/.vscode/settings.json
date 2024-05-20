@@ -26,5 +26,5 @@
     "markdown.extension.toc.plaintext": false,
     "editor.fontFamily": "Monaco",
     "markdown.extension.completion.enabled": true,
-    "markdown.extension.preview.autoShowPreviewToSide": true
+    "markdown.extension.preview.autoShowPreviewToSide": false
 }
