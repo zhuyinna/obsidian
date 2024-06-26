@@ -142,7 +142,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -210,7 +211,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "vscode-editor:新建代码文件": false,
       "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "templates:插入模板": false,
@@ -218,13 +218,12 @@
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-day-planner:Timeline": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "04d0a26c38f20139",
+  "active": "01d3b5b5b9e85093",
   "lastOpenFiles": [
     "20-Chunzhao/01-自我介绍.md",
     "20-Chunzhao/04-刷题计划.md",
