@@ -86,9 +86,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "28fdd0b167bcc3e8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -211,6 +221,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-day-planner:Timeline": false,
+      "vscode-editor:新建代码文件": false,
       "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "templates:插入模板": false,
@@ -223,7 +235,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "01d3b5b5b9e85093",
+  "active": "28fdd0b167bcc3e8",
   "lastOpenFiles": [
     "20-Chunzhao/01-自我介绍.md",
     "20-Chunzhao/04-刷题计划.md",
