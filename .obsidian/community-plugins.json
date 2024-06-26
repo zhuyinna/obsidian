@@ -1,6 +1,5 @@
 [
   "obsidian-tasks-plugin",
-  "obsidian-citation-plugin",
   "calendar",
   "templater-obsidian",
   "text-snippets-obsidian",
@@ -19,7 +18,6 @@
   "mousewheel-image-zoom",
   "recent-files-obsidian",
   "table-editor-obsidian",
-  "obsidian-git",
   "obsidian-day-planner",
   "vscode-editor",
   "codeblock-customizer"
