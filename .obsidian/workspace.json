@@ -28,7 +28,59 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-Chunzhao/C-CV_Interview/面试原题/地平线面试题汇总.md",
+                "file": "40-Research/生成模型/生成模型.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c2bf7c592a1511f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30-Lookup/markdown statement.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e6448e8e87d9a82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40-Research/实验/去雾数据集.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d05b08cf732f215",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20-Chunzhao/01-自我介绍.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04d0a26c38f20139",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20-Chunzhao/04-刷题计划.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -94,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 200
   },
   "right": {
     "id": "02dbfd97c2edcf7b",
@@ -110,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20-Chunzhao/C-CV_Interview/面试原题/地平线面试题汇总.md"
+                "file": "20-Chunzhao/04-刷题计划.md"
               }
             }
           },
@@ -172,35 +224,36 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "52aeeabc357ea8fe",
+  "active": "04d0a26c38f20139",
   "lastOpenFiles": [
-    "20-Chunzhao/C-CV_Interview/面试原题/网易面试题.md",
+    "20-Chunzhao/01-自我介绍.md",
+    "20-Chunzhao/04-刷题计划.md",
     "00-Home/Home.md",
-    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/C++面经题/hash.md",
+    "30-Lookup/linux statement.md",
+    "40-Research/实验/去雾数据集.md",
+    "40-Research/实验/A-01-技巧.md",
+    "40-Research/实习/leetcode.md",
+    "40-Research/实习/自我介绍.md",
+    "40-Research/实习/学习路线.md",
+    "40-Research/实习/面试记录.md",
+    "40-Research/生成模型/扩散模型/重参数技巧.md",
+    "30-Lookup/markdown statement.md",
+    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/嵌入式软件/经典30问.md",
+    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/嵌入式软件",
     "10-Mynote/日记/000-capture/capture.md",
+    "40-Research/生成模型/生成模型.md",
+    "40-Research/生成模型/扩散模型/条件控制扩散模型.md",
+    "40-Research/生成模型/扩散模型/回归模型.md",
+    "20-Chunzhao/C-CV_Interview/面试原题/地平线面试题汇总.md",
+    "20-Chunzhao/C-CV_Interview/面试原题/OPPO面试题汇总.md",
+    "20-Chunzhao/C-CV_Interview/面试原题/Aibee面试题汇总.md",
+    "20-Chunzhao/C-CV_Interview/面试原题/旷视.md",
+    "20-Chunzhao/C-CV_Interview/面试原题/网易面试题.md",
+    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/C++与操作系统等面试题/C++面经题/hash.md",
     "10-Mynote/日记/2024-05-20.md",
     "30-Lookup/非root安装.md",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/Transformer面试题/transformer代码.md",
-    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/conv.md",
-    "20-Chunzhao/00-准备@chatgpt.md",
-    "30-Lookup/linux statement.md",
-    "20-Chunzhao/02-面经题目整理.md",
-    "20-Chunzhao/01-自我介绍.md",
-    "20-Chunzhao/C-CV_Interview/面试原题/地平线面试题汇总.md",
-    "20-Chunzhao/C-CV_Interview/面试原题/阿里面试题汇总.md",
-    "20-Chunzhao/C-CV_Interview/面试原题/蔚来面试题汇总.md",
-    "20-Chunzhao/C-CV_Interview/面试原题/腾讯面试题汇总.md",
-    "20-Chunzhao/C-CV_Interview/面试原题/网易面试题汇总.md",
-    "20-Chunzhao/C-CV_Interview/面试原题/滴滴面试题汇总.md",
-    "20-Chunzhao/C-CV_Interview/面试原题/字节面试题汇总.md",
-    "20-Chunzhao/C-CV_Interview/面试原题/Aibee.md",
     "20-Chunzhao/C-CV_Interview/面试原题",
-    "30-Lookup/markdown statement.md",
-    "20-Chunzhao/C-CV_Interview/大厂面试原题/蔚来面试题汇总.md",
-    "20-Chunzhao/C-CV_Interview/大厂面试原题/Aibee.md",
-    "20-Chunzhao/C-CV_Interview/大厂面试原题/腾讯面试题汇总.md",
-    "20-Chunzhao/C-CV_Interview/大厂面试原题/字节面试题汇总.md",
-    "20-Chunzhao/C-CV_Interview/大厂面试原题/网易面试题汇总.md",
     "20-Chunzhao/C-CV_Interview/大厂面试原题/滴滴",
     "60-Attachment/Pasted image 20240516131855.png",
     "60-Attachment/Pasted image 20240516131839.png",
@@ -219,7 +272,6 @@
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/assets/conv",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/assets/激活函数",
     "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/深度学习基础面试题/assets",
-    "20-Chunzhao/C-CV_Interview/通用计算机视觉算法面经/经典网络模型/assets/007-SqueezeNet",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas",
