@@ -5,20 +5,20 @@
       "path": "20-Chunzhao/04-刷题计划.md"
     },
     {
-      "basename": "01-自我介绍",
-      "path": "20-Chunzhao/01-自我介绍.md"
-    },
-    {
-      "basename": "Home",
-      "path": "00-Home/Home.md"
-    },
-    {
       "basename": "linux statement",
       "path": "30-Lookup/linux statement.md"
     },
     {
       "basename": "去雾数据集",
       "path": "40-Research/实验/去雾数据集.md"
+    },
+    {
+      "basename": "01-自我介绍",
+      "path": "20-Chunzhao/01-自我介绍.md"
+    },
+    {
+      "basename": "Home",
+      "path": "00-Home/Home.md"
     },
     {
       "basename": "A-01-技巧",
